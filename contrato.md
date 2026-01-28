@@ -93,7 +93,9 @@ El presente acuerdo tiene una duración de un año y se prorrogará tácitamente
 
 Una vez finalice el presente acuerdo:
 
-El **RESPONSABLE** dispondrá de un plazo de **30 días naturales** desde la fecha de finalización de la relación contractual para descargar desde la plataforma toda la información disponible en su cuenta. El **ENCARGADO** facilitará los medios técnicos necesarios para dicha extracción en formato estructurado y de uso común.
+El **RESPONSABLE** dispondrá de un plazo de **30 días naturales** desde la fecha de finalización de la relación contractual para descargar desde la plataforma toda la información disponible en su cuenta. El **ENCARGADO** facilitará los medios técnicos necesarios para dicha extracción en formato estructurado, de uso común y lectura mecánica (por ejemplo: JSON, CSV, XML), conforme al artículo 28.3.g del RGPD.
+
+**NOTA**: El plazo de 30 días naturales se considera razonable para la mayoría de los casos. En situaciones excepcionales que requieran un plazo superior debido al volumen de datos, el **RESPONSABLE** deberá solicitarlo por escrito antes de la finalización del contrato, y las partes acordarán de buena fe una extensión razonable.
 
 Transcurrido dicho plazo, el **ENCARGADO** procederá a la **supresión o devolución de todos los datos personales** al **RESPONSABLE**, según este último indique, y suprimirá las copias existentes, salvo que el Derecho de la Unión o de los Estados miembros exija su conservación.
 
@@ -307,6 +309,8 @@ consultas previas a la autoridad de control, cuando proceda.
 #### 5.15. Cumplimiento de las Obligaciones
 
 El **ENCARGADO** pondrá a disposición del RESPONSABLE la información razonablemente necesaria para demostrar el cumplimiento de sus obligaciones de protección de datos. Esta información podrá incluir certificaciones de seguridad, documentación de políticas y procedimientos, o informes de auditorías existentes.
+
+**Presentación de informes de auditorías existentes:**
 
 El **RESPONSABLE** acepta que el **ENCARGADO** pueda satisfacer los requisitos de auditoría mediante la presentación de informes de auditorías recientes (con una antigüedad inferior a 12 meses) realizadas por otros clientes o auditores independientes, siempre que cubran las áreas relevantes de tratamiento de datos. En caso de que el **RESPONSABLE** considere que dichos informes no son suficientes para sus necesidades específicas, podrá solicitar una auditoría adicional justificando la necesidad.
 
