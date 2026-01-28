@@ -3,7 +3,14 @@ Términos del Servicio
 
 1. Aceptación de los Términos
 
-Bienvenido a la plataforma Socialo ("Servicio" o "Plataforma"), proporcionado por Socialo ("Nosotros" o "Empresa"). Al acceder y utilizar nuestro Servicio, usted ("Cliente" o "Usuario") acepta cumplir y estar sujeto a los siguientes Términos del Servicio ("Términos"). Si no está de acuerdo con estos Términos, no debe usar el Servicio.
+Bienvenido a la plataforma Socialo ("Servicio" o "Plataforma"), proporcionado por:
+
+**Socialo, S.L.**
+NIF: B26602979
+Domicilio social: Paseo de la Castellana, 194, Bajo B, 28046 Madrid, España
+(en adelante, "Nosotros" o "Empresa")
+
+Al acceder y utilizar nuestro Servicio, usted ("Cliente" o "Usuario") acepta cumplir y estar sujeto a los siguientes Términos del Servicio ("Términos"). Si no está de acuerdo con estos Términos, no debe usar el Servicio.
 
 2. Descripción del Servicio
 
