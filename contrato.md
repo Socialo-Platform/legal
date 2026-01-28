@@ -79,7 +79,7 @@ El **RESPONSABLE** dispondrá de un plazo de **30 días naturales** desde la fec
 
 Transcurrido dicho plazo, el **ENCARGADO** procederá a la **supresión o devolución de todos los datos personales** al **RESPONSABLE**, según este último indique, y suprimirá las copias existentes, salvo que el Derecho de la Unión o de los Estados miembros exija su conservación.
 
-El **ENCARGADO** podrá conservar los datos personales **debidamente bloqueados** durante un período máximo de **6 años** desde la finalización del acuerdo, exclusivamente para atender posibles responsabilidades legales derivadas de la ejecución del contrato (fiscales, civiles, mercantiles o administrativas).
+El **ENCARGADO** podrá conservar los datos personales **debidamente bloqueados** durante un período máximo de **5 años** desde la finalización del acuerdo, exclusivamente para atender posibles responsabilidades legales derivadas de la ejecución del contrato (fiscales, civiles, mercantiles o administrativas).
 
 Durante el período de bloqueo, los datos **no podrán ser accedidos ni tratados** por el **ENCARGADO**, salvo para su puesta a disposición ante Juzgados y Tribunales, el Ministerio Fiscal, las Administraciones Públicas competentes, el Defensor del Pueblo, el Tribunal de Cuentas o autoridades de protección de datos que lo requieran para el ejercicio de sus funciones.
 
