@@ -6,7 +6,7 @@ Política de privacidad de la aplicación Socialo
 
 La presente Política de Privacidad tiene por objeto informar a los usuarios (en adelante, los “Usuarios”) sobre el tratamiento de los datos personales recabados mediante el uso de la plataforma SOCIALO, accesible a través del sitio web https://socialo.live y de la aplicación móvil (en adelante, la “Plataforma”).
 
-Esta política describe, en cumplimiento del Reglamento (UE) 2016/679 General de Protección de Datos (RGPD), qué datos recabamos, por qué lo hacemos y cómo puede el Usuario gestionarlos.
+Esta política describe, en cumplimiento del Reglamento (UE) 2016/679 General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), qué datos recabamos, por qué lo hacemos y cómo puede el Usuario gestionarlos.
 
 El registro y uso de la Plataforma implica el conocimiento y la aceptación expresa y sin reservas de esta Política, así como de los Términos y Condiciones de uso.
 
@@ -17,10 +17,11 @@ El registro y uso de la Plataforma implica el conocimiento y la aceptación expr
 
 El responsable del tratamiento de los datos personales facilitados en la Plataforma es:
 
-Responsable:  José Javier Román Camacho
-NIF: 51818618D
-Domicilio social: Si requiere de este dato, contacte a través del correo que figura debajo.
-Correo electrónico:  proteccion.datos@socialo.live
+Responsable: Socialo, S.L.
+NIF: B26602979
+Domicilio social: Paseo de la Castellana, 194, Bajo B, 28046 Madrid, España
+Correo electrónico: dpo@socialo.live
+Delegado de Protección de Datos (DPO): dpo@socialo.live
 
 
 3. FINALIDAD DEL TRATAMIENTO DE DATOS Y BASE DE LEGITIMACIÓN
