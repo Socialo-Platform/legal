@@ -170,17 +170,7 @@ proceder a la comunicación.
 
 #### 5.5. Transferencia Internacional
 
-El **ENCARGADO** podrá transferir datos personales a terceros países u organizaciones internacionales cuando sea necesario para la prestación del servicio, siempre que se cumplan las garantías previstas en el Capítulo V del RGPD.
-
-**Proveedores actuales con transferencias fuera del EEE:**
-
-El **ENCARGADO** declara que, a la fecha de firma de este contrato, utiliza o puede utilizar los siguientes proveedores situados o que procesan datos fuera del Espacio Económico Europeo:
-
-- **Amazon Web Services (AWS)**: Servidores en EE.UU. - Decisión de Adecuación UE-EE.UU. Data Privacy Framework y Cláusulas Contractuales Tipo (SCCs)
-- **Google Cloud Platform**: Servidores en EE.UU. - Decisión de Adecuación UE-EE.UU. Data Privacy Framework y Cláusulas Contractuales Tipo (SCCs)
-- **Otros proveedores cloud certificados**: Que dispongan de Decisión de Adecuación de la Comisión Europea o hayan suscrito las Cláusulas Contractuales Tipo aprobadas por la Comisión Europea
-
-El **ENCARGADO** incorpora como **Anexo I** de este contrato las Cláusulas Contractuales Tipo (Standard Contractual Clauses - SCCs) aprobadas por la Comisión Europea mediante Decisión de Ejecución (UE) 2021/914, de 4 de junio de 2021, que serán aplicables a todas las transferencias internacionales de datos.
+El **ENCARGADO** podrá transferir datos personales a terceros países u organizaciones internacionales cuando sea necesario para la prestación del servicio, siempre que se cumplan las garantías previstas en el Capítulo V del RGPD (decisiones de adecuación, cláusulas contractuales tipo u otros mecanismos legalmente reconocidos).
 
 El **ENCARGADO** mantendrá actualizada una lista de todos los subencargados que realizan transferencias internacionales, especificando los países de destino y los mecanismos de protección aplicados. Dicha lista estará disponible para el **RESPONSABLE** previa solicitud por escrito.
 
@@ -192,25 +182,18 @@ Si fuera legalmente requerido transferir datos por autoridades públicas de terc
 
 **Categorías de servicios subcontratables:**
 
-El **ENCARGADO** podrá contratar subencargados dentro de las siguientes categorías de servicios, siempre que cumplan con los requisitos de certificación indicados:
+El **ENCARGADO** podrá contratar subencargados dentro de las siguientes categorías de servicios:
 
-1. **Proveedores de hosting e infraestructura cloud**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean, Heroku, Vercel, Railway, Fly.io, Render, o cualquier proveedor similar que cuente con certificación ISO 27001 o SOC 2.
+1. Proveedores de hosting e infraestructura cloud
+2. Servicios de comunicación y mensajería (email, SMS, notificaciones)
+3. Procesamiento de pagos
+4. Analítica, monitorización y gestión de errores
+5. Bases de datos y almacenamiento gestionado
+6. CDN y almacenamiento de archivos
+7. Servicios de autenticación y seguridad
+8. Otros servicios técnicos auxiliares necesarios para la prestación del servicio
 
-2. **Servicios de comunicación y mensajería**: SendGrid, Mailgun, Twilio, Amazon SES, Postmark, Resend, o proveedores equivalentes de servicios de email, SMS y notificaciones.
-
-3. **Procesamiento de pagos**: Stripe, PayPal, Redsys, o proveedores equivalentes que cumplan con estándares PCI-DSS.
-
-4. **Analítica, monitorización y gestión de errores**: Google Analytics, Mixpanel, Amplitude, Sentry, LogRocket, Datadog, New Relic, o servicios equivalentes de análisis y monitorización.
-
-5. **Bases de datos y almacenamiento gestionado**: MongoDB Atlas, PostgreSQL cloud (AWS RDS, Google Cloud SQL, etc.), Redis Cloud, Supabase, Firebase, o servicios de bases de datos gestionadas equivalentes.
-
-6. **CDN y almacenamiento de archivos**: Cloudflare, AWS S3, Google Cloud Storage, Azure Blob Storage, Bunny CDN, o servicios equivalentes de distribución de contenido y almacenamiento.
-
-7. **Servicios de autenticación y seguridad**: Auth0, Supabase Auth, Firebase Authentication, Clerk, o proveedores equivalentes de servicios de autenticación y gestión de identidades.
-
-8. **Otros servicios técnicos auxiliares**: Cualquier otro proveedor técnico, administrativo o de soporte necesario para la prestación del servicio que cuente con certificaciones de seguridad reconocidas (ISO 27001, SOC 2, o equivalentes).
-
-El **ENCARGADO** podrá contratar, sustituir o utilizar cualquiera de los proveedores incluidos en las categorías anteriores sin necesidad de notificación previa ni autorización adicional del **RESPONSABLE**. Solo se requerirá notificación previa (con 10 días hábiles de antelación para ejercer derecho de oposición) en caso de que el **ENCARGADO** desee contratar subencargados que NO estén incluidos en las categorías mencionadas anteriormente.
+El **ENCARGADO** podrá contratar, sustituir o utilizar proveedores dentro de las categorías anteriores sin necesidad de notificación previa ni autorización adicional del **RESPONSABLE**. Solo se requerirá notificación previa (con 10 días hábiles de antelación para ejercer derecho de oposición) en caso de que el **ENCARGADO** desee contratar subencargados que NO estén incluidos en las categorías mencionadas anteriormente.
 
 El **ENCARGADO** se compromete a que todos los subencargados contratados cumplan con obligaciones equivalentes en materia de protección de datos conforme al RGPD. Una lista actualizada de los subencargados activos estará disponible para el **RESPONSABLE** previa solicitud por escrito.
 
