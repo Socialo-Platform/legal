@@ -36,8 +36,9 @@ del tratamiento, para tratar por cuenta de COLEGIO MAYOR ALCALA,
 el siguiente servicio:
 
 - Plataforma diseñada para impulsar la participación, fortalecer la
-  comunidad y mejorar la comunicación interna en colegios mayores
-  universitarios y universidades.
+  comunidad y mejorar la comunicación interna en comunidades, organizaciones,
+  instituciones educativas, residencias, asociaciones y entidades de diversa
+  índole.
 
 El tratamiento de datos personales incluirá los siguientes aspectos:
 
@@ -59,13 +60,76 @@ El tratamiento de datos personales incluirá los siguientes aspectos:
 
 ### 2. Identificación de la Información Afectada
 
-Para la ejecución de las prestaciones derivadas del cumplimiento del
-objeto de este encargo, COLEGIO MAYOR ALCALA (**RESPONSABLE** del
-tratamiento) autoriza a SOCIALO (**ENCARGADO** del tratamiento) a tratar
-la información necesaria, lo que incluye:
+Para la ejecución de las prestaciones derivadas del cumplimiento del objeto de este encargo, el **RESPONSABLE** autoriza al **ENCARGADO** a tratar las siguientes categorías de datos personales, cuyo detalle concreto será determinado por el **RESPONSABLE** mediante la configuración de los formularios de registro y funcionalidades de la plataforma:
 
-- Nombre completo, número de habitación, carrera universitaria,
-  institución académica y actividades en las que participa el colegial
+#### 2.1. Categorías de Datos Personales
+
+El **ENCARGADO** está autorizado a tratar exclusivamente las siguientes categorías de datos personales, en la medida en que el **RESPONSABLE** los habilite y facilite a través de la plataforma:
+
+a) **Datos de identificación:** Nombre, apellidos, documento de identidad (DNI, NIE, pasaporte u otro documento identificativo), fotografía.
+
+b) **Datos de contacto:** Correo electrónico (personal e institucional), número de teléfono móvil y fijo, dirección postal, perfiles de redes sociales profesionales.
+
+c) **Datos de contexto organizacional:** Información académica, profesional o de contexto relevante para la comunidad (por ejemplo: carrera universitaria, institución, departamento, área profesional, especialización, cargo, función o rol dentro de la organización).
+
+d) **Datos de ubicación o asignación:** Ubicación, espacio asignado o información de pertenencia dentro de la organización (por ejemplo: número de habitación, edificio, oficina, área, sección, grupo, equipo o unidad), fechas de incorporación y finalización prevista cuando aplique.
+
+e) **Datos de participación y actividad:** Actividades en las que participa, eventos a los que asiste, preferencias de actividades, intereses personales declarados, grupos o comisiones a los que pertenece, comentarios y valoraciones.
+
+f) **Datos de perfil de usuario:** Biografía personal, intereses, aficiones, idiomas, habilidades, preferencias de notificación y comunicación.
+
+g) **Datos de uso de la plataforma:** Registro de accesos, fecha y hora de conexión, páginas visitadas dentro de la plataforma, interacciones con contenidos.
+
+h) **Otros datos identificativos:** Cualquier otro dato de carácter identificativo no comprendido en las categorías anteriores que el **RESPONSABLE** considere necesario facilitar al **ENCARGADO** para la correcta prestación del servicio objeto de este contrato, siempre que no constituyan categorías especiales de datos conforme al artículo 9 del RGPD.
+
+#### 2.2. Categorías de Interesados
+
+Las categorías de personas cuyos datos personales serán tratados son:
+
+a) **Miembros de la comunidad:** Personas que forman parte de la organización, comunidad o institución y utilizan la plataforma (por ejemplo: residentes, colegiales, estudiantes, miembros, socios, asociados, participantes o usuarios habituales).
+
+b) **Personal de la organización:** Personal administrativo, directivo, de gestión, coordinación y otro personal autorizado por el **RESPONSABLE** que requiera acceso a la plataforma para el desempeño de sus funciones.
+
+c) **Otros usuarios autorizados:** Cualquier otra persona física que el **RESPONSABLE** autorice expresamente para acceder a la plataforma (por ejemplo: antiguos miembros, colaboradores externos, proveedores de servicios o actividades, invitados, visitantes).
+
+#### 2.3. Finalidad del Tratamiento
+
+Los datos personales serán tratados por el **ENCARGADO** exclusivamente para las siguientes finalidades relacionadas con la prestación del servicio:
+
+- Gestión de usuarios y control de acceso a la plataforma.
+- Facilitación de la comunicación interna entre miembros de la comunidad y con la administración de la organización.
+- Organización y promoción de actividades, eventos y servicios de la organización.
+- Mejora de la participación y el compromiso de los miembros de la comunidad.
+- Envío de notificaciones y comunicaciones relacionadas con el servicio.
+- Mantenimiento, soporte técnico y mejora de la plataforma.
+- Elaboración de estadísticas agregadas y anonimizadas sobre el uso de la plataforma.
+
+#### 2.4. Exclusión Expresa de Categorías Especiales de Datos
+
+El **ENCARGADO** NO tratará en ningún caso **categorías especiales de datos personales** conforme al **artículo 9 del RGPD**, que incluyen:
+
+- Datos que revelen el origen étnico o racial.
+- Opiniones políticas.
+- Convicciones religiosas o filosóficas.
+- Afiliación sindical.
+- Datos genéticos.
+- Datos biométricos dirigidos a identificar de manera unívoca a una persona física.
+- Datos relativos a la salud física o mental.
+- Datos relativos a la vida sexual u orientación sexual de una persona física.
+
+Tampoco tratará datos relativos a **condenas e infracciones penales** conforme al artículo 10 del RGPD.
+
+El **RESPONSABLE** garantiza que no habilitará ni facilitará al **ENCARGADO** ningún dato comprendido en estas categorías especiales. En caso de que el **ENCARGADO** detecte de forma accidental el tratamiento de estas categorías de datos, deberá notificarlo inmediatamente al **RESPONSABLE** para que este adopte las medidas correctoras oportunas, incluyendo la supresión inmediata de dichos datos.
+
+#### 2.5. Determinación de los Datos Concretos por el RESPONSABLE
+
+El **RESPONSABLE** es el único facultado para determinar qué datos concretos dentro de las categorías descritas anteriormente son necesarios y proporcionales para la prestación del servicio. Esta determinación se realizará mediante:
+
+- La configuración de los campos obligatorios y opcionales en los formularios de registro de la plataforma.
+- La habilitación o deshabilitación de funcionalidades específicas que requieran el tratamiento de determinadas categorías de datos.
+- Las instrucciones específicas que comunique al **ENCARGADO** en cada momento.
+
+El **ENCARGADO** se compromete a no tratar ningún dato personal al que tenga acceso con una finalidad distinta a la expresamente autorizada por el **RESPONSABLE** ni a realizar operaciones de tratamiento que excedan las instrucciones recibidas
 
 ### 3. Duración
 
