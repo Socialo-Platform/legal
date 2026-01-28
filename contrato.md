@@ -97,7 +97,7 @@ El **RESPONSABLE** dispondrá de un plazo de **30 días naturales** desde la fec
 
 Transcurrido dicho plazo, el **ENCARGADO** procederá a la **supresión o devolución de todos los datos personales** al **RESPONSABLE**, según este último indique, y suprimirá las copias existentes, salvo que el Derecho de la Unión o de los Estados miembros exija su conservación.
 
-El **ENCARGADO** podrá conservar los datos personales **debidamente bloqueados** durante un período máximo de **5 años** desde la finalización del acuerdo, exclusivamente para atender posibles responsabilidades legales derivadas de la ejecución del contrato (fiscales, civiles, mercantiles o administrativas).
+El **ENCARGADO** podrá conservar los datos personales **debidamente bloqueados** durante un período máximo de **5 años** desde la finalización del acuerdo, exclusivamente para atender posibles responsabilidades legales derivadas de la ejecución del contrato (fiscales, civiles, mercantiles o administrativas), en cumplimiento del artículo 32 de la LOPDGDD y el artículo 1.964.2 del Código Civil español.
 
 Durante el período de bloqueo, los datos **no podrán ser accedidos ni tratados** por el **ENCARGADO**, salvo para su puesta a disposición ante Juzgados y Tribunales, el Ministerio Fiscal, las Administraciones Públicas competentes, el Defensor del Pueblo, el Tribunal de Cuentas o autoridades de protección de datos que lo requieran para el ejercicio de sus funciones.
 
@@ -310,7 +310,7 @@ El **ENCARGADO** pondrá a disposición del RESPONSABLE la información razonabl
 
 El **RESPONSABLE** acepta que el **ENCARGADO** pueda satisfacer los requisitos de auditoría mediante la presentación de informes de auditorías recientes (con una antigüedad inferior a 12 meses) realizadas por otros clientes o auditores independientes, siempre que cubran las áreas relevantes de tratamiento de datos. En caso de que el **RESPONSABLE** considere que dichos informes no son suficientes para sus necesidades específicas, podrá solicitar una auditoría adicional justificando la necesidad.
 
-El **RESPONSABLE** podrá solicitar la realización de auditorías con una frecuencia máxima de una vez al año, salvo que exista causa justificada (como una violación de seguridad o requerimiento de autoridad competente). Las auditorías deberán ser notificadas con un mínimo de 30 días naturales de antelación, realizarse exclusivamente en horario laboral del **ENCARGADO** (lunes a viernes, de 9:00 a 18:00h), por vía telemática salvo que sea estrictamente necesario el acceso físico, y no podrán interferir con las operaciones normales del negocio.
+El **RESPONSABLE** podrá solicitar la realización de auditorías con una frecuencia máxima de una vez al año, salvo que exista causa justificada (como una violación de seguridad, cambios significativos en el tratamiento de datos, o requerimiento de autoridad competente). Las auditorías deberán ser notificadas con un mínimo de 30 días naturales de antelación, realizarse exclusivamente en horario laboral del **ENCARGADO** (lunes a viernes, de 9:00 a 18:00h), por vía telemática salvo que sea estrictamente necesario el acceso físico, y no podrán interferir con las operaciones normales del negocio.
 
 El auditor deberá firmar previamente un acuerdo de confidencialidad con el **ENCARGADO**, respetar toda información confidencial no relacionada con la auditoría, y estar sujeto a la supervisión de personal del **ENCARGADO** durante todo el proceso. Los costes de la auditoría serán asumidos por el **RESPONSABLE**, salvo que se detecten incumplimientos significativos por parte del **ENCARGADO**.
 
@@ -444,9 +444,11 @@ les pudiera corresponder.
 
 ---
 
+---
+
 ## APÉNDICE I
 
-## Lista de Partes
+### Identificación de las Partes y Descripción del Tratamiento
 
 ## Responsable(s) del Tratamiento:
 
