@@ -144,38 +144,35 @@ proceder a la comunicación.
 
 #### 5.5. Transferencia Internacional
 
-Si el **ENCARGADO** debe transferir datos personales a un tercer país o
-a una organización internacional, en virtud del Derecho de la Unión o de
-los Estados miembros que le sea aplicable, informará al **RESPONSABLE**
-de esa exigencia legal de manera previa, salvo que tal Derecho lo
-prohíba por razones importantes de interés público.
+El **ENCARGADO** podrá transferir datos personales a terceros países u organizaciones internacionales cuando sea necesario para la prestación del servicio, siempre que se utilicen proveedores que cumplan con los mecanismos legales apropiados (Decisiones de Adecuación de la Comisión Europea, Cláusulas Contractuales Tipo, Normas Corporativas Vinculantes, o certificaciones reconocidas).
+
+El **ENCARGADO** informará al **RESPONSABLE**, previa solicitud por escrito de éste, sobre las ubicaciones generales donde se procesan los datos. El **RESPONSABLE** acepta estas transferencias como parte de la naturaleza del servicio prestado.
+
+Si fuera legalmente requerido transferir datos por autoridades públicas, el **ENCARGADO** informará al **RESPONSABLE** cuando sea legalmente posible hacerlo y únicamente si el **RESPONSABLE** lo solicita expresamente.
 
 #### 5.6. Subcontratación
 
-No se permite subcontratar ninguna de las prestaciones que formen parte
-del objeto de este contrato que comporte el tratamiento de datos
-personales, salvo los servicios auxiliares necesarios para el normal
-funcionamiento de los servicios del encargado.
+**AUTORIZACIÓN ESPECÍFICA POR ESCRITO**: El **RESPONSABLE** autoriza expresamente al **ENCARGADO** para la contratación de subencargados dentro de las siguientes categorías de servicios:
 
-Si fuera necesario subcontratar algún tratamiento, este hecho se deberá
-comunicar previamente y por escrito al responsable, con una antelación
-de dos meses, indicando los tratamientos que se pretende subcontratar e
-identificando de forma clara e inequívoca la empresa subcontratista y
-sus datos de contacto. La subcontratación podrá llevarse a cabo si el
-responsable no manifiesta su oposición en el plazo establecido.
+1. **Proveedores de hosting e infraestructura cloud**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean, Heroku, Vercel, Railway, Fly.io, Render, o cualquier proveedor similar que cuente con certificación ISO 27001 o SOC 2.
 
-El subcontratista, que también tendrá la condición de encargado del
-tratamiento, está obligado igualmente a cumplir las obligaciones
-establecidas en este documento para el encargado del tratamiento y las
-instrucciones que dicte el responsable. Corresponde al encargado inicial
-regular la nueva relación de forma que el nuevo encargado quede sujeto a
-las mismas condiciones (instrucciones, obligaciones, medidas de
-seguridad...) y con los mismos requisitos formales que él, en lo
-referente al adecuado tratamiento de los datos personales y a la
-garantía de los derechos de las personas afectadas. En el caso de
-incumplimiento por parte del subencargado, el encargado inicial seguirá
-siendo plenamente responsable ante el responsable en lo referente al
-cumplimiento de las obligaciones.
+2. **Servicios de comunicación y mensajería**: SendGrid, Mailgun, Twilio, Amazon SES, Postmark, Resend, o proveedores equivalentes de servicios de email, SMS y notificaciones.
+
+3. **Procesamiento de pagos**: Stripe, PayPal, Redsys, o proveedores equivalentes que cumplan con estándares PCI-DSS.
+
+4. **Analítica, monitorización y gestión de errores**: Google Analytics, Mixpanel, Amplitude, Sentry, LogRocket, Datadog, New Relic, o servicios equivalentes de análisis y monitorización.
+
+5. **Bases de datos y almacenamiento gestionado**: MongoDB Atlas, PostgreSQL cloud (AWS RDS, Google Cloud SQL, etc.), Redis Cloud, Supabase, Firebase, o servicios de bases de datos gestionadas equivalentes.
+
+6. **CDN y almacenamiento de archivos**: Cloudflare, AWS S3, Google Cloud Storage, Azure Blob Storage, Bunny CDN, o servicios equivalentes de distribución de contenido y almacenamiento.
+
+7. **Servicios de autenticación y seguridad**: Auth0, Supabase Auth, Firebase Authentication, Clerk, o proveedores equivalentes de servicios de autenticación y gestión de identidades.
+
+8. **Otros servicios técnicos auxiliares**: Cualquier otro proveedor técnico, administrativo o de soporte necesario para la prestación del servicio que cuente con certificaciones de seguridad reconocidas (ISO 27001, SOC 2, o equivalentes).
+
+El **ENCARGADO** podrá contratar, sustituir o utilizar cualquiera de los proveedores incluidos en las categorías anteriores sin necesidad de notificación previa ni autorización adicional del **RESPONSABLE**. Solo se requerirá notificación previa (con 10 días hábiles de antelación para ejercer derecho de oposición) en caso de que el **ENCARGADO** desee contratar subencargados que NO estén incluidos en las categorías mencionadas anteriormente.
+
+El **ENCARGADO** se compromete a que todos los subencargados contratados cumplan con obligaciones equivalentes en materia de protección de datos conforme al RGPD. Una lista actualizada de los subencargados activos estará disponible para el **RESPONSABLE** previa solicitud por escrito.
 
 #### 5.7. Deber de Secreto
 
@@ -271,11 +268,13 @@ consultas previas a la autoridad de control, cuando proceda.
 
 #### 5.15. Cumplimiento de las Obligaciones
 
-El **ENCARGADO** pondrá a disposición del RESPONSABLE toda la
-información necesaria para demostrar el cumplimiento de sus
-obligaciones, así como para la realización de las auditorías o las
-inspecciones que realicen el **RESPONSABLE** u otro auditor autorizado
-por él.
+El **ENCARGADO** pondrá a disposición del RESPONSABLE la información razonablemente necesaria para demostrar el cumplimiento de sus obligaciones de protección de datos. Esta información podrá incluir certificaciones de seguridad, documentación de políticas y procedimientos, o informes de auditorías existentes.
+
+El **RESPONSABLE** acepta que el **ENCARGADO** pueda satisfacer los requisitos de auditoría mediante la presentación de informes de auditorías recientes (con una antigüedad inferior a 12 meses) realizadas por otros clientes o auditores independientes, siempre que cubran las áreas relevantes de tratamiento de datos. En caso de que el **RESPONSABLE** considere que dichos informes no son suficientes para sus necesidades específicas, podrá solicitar una auditoría adicional justificando la necesidad.
+
+El **RESPONSABLE** podrá solicitar la realización de auditorías con una frecuencia máxima de una vez al año, salvo que exista causa justificada (como una violación de seguridad o requerimiento de autoridad competente). Las auditorías deberán ser notificadas con un mínimo de 30 días naturales de antelación, realizarse exclusivamente en horario laboral del **ENCARGADO** (lunes a viernes, de 9:00 a 18:00h), por vía telemática salvo que sea estrictamente necesario el acceso físico, y no podrán interferir con las operaciones normales del negocio.
+
+El auditor deberá firmar previamente un acuerdo de confidencialidad con el **ENCARGADO**, respetar toda información confidencial no relacionada con la auditoría, y estar sujeto a la supervisión de personal del **ENCARGADO** durante todo el proceso. Los costes de la auditoría serán asumidos por el **RESPONSABLE**, salvo que se detecten incumplimientos significativos por parte del **ENCARGADO**.
 
 #### 5.16. Medidas de Seguridad
 
