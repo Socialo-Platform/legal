@@ -13,7 +13,7 @@ D. Ángel de la Parte Paris, con DNI 12709189-X, en nombre y representación de 
 En adelante, el **RESPONSABLE** del fichero o tratamiento.
 
 **De otra parte:**
-D. José Javier Román Camacho (SOCIALO), con DNI 51818618D, en su propio nombre y representación, con domicilio en Calle de las Flores, 71, Aranjuez, 28300, Madrid.
+Socialo, S.L., con NIF B26602979, en su propio nombre y representación, con domicilio en Paseo de la Castellana, 194, Bajo B, Madrid (28046), Madrid, España.
 En adelante, el **ENCARGADO** del tratamiento.
 
 Ambas partes se reconocen mutuamente la capacidad legal bastante para suscribir este contrato y quedar obligadas en la representación en que respectivamente actúan.
@@ -75,9 +75,15 @@ El presente acuerdo tiene una duración de un año y se prorrogará tácitamente
 
 Una vez finalice el presente acuerdo:
 
-El **RESPONSABLE** podrá descargar desde la plataforma toda la información disponible en su cuenta previa a la finalización de la relación contractual. A partir de la fecha de cancelación de la suscripción o finalización del periodo acordado, el **ENCARGADO** conservará los datos personales durante un período máximo de 18 meses. Durante dicho período, los datos podrán mantenerse accesibles por el **ENCARGADO** para fines legítimos relacionados con la prestación del servicio, el soporte técnico, la gestión administrativa o el cumplimiento de obligaciones contractuales o legales, salvo que el Derecho de la Unión o de los Estados miembros exija su conservación por un período superior. Durante dicho período, el **RESPONSABLE** podrá solicitar al **ENCARGADO** una extracción de la información en su cuenta.
+El **RESPONSABLE** dispondrá de un plazo de **30 días naturales** desde la fecha de finalización de la relación contractual para descargar desde la plataforma toda la información disponible en su cuenta. El **ENCARGADO** facilitará los medios técnicos necesarios para dicha extracción en formato estructurado y de uso común.
 
-El **ENCARGADO** puede conservar una copia, con los datos debidamente bloqueados, mientras puedan derivarse responsabilidades por la ejecución de la prestación.
+Transcurrido dicho plazo, el **ENCARGADO** procederá a la **supresión o devolución de todos los datos personales** al **RESPONSABLE**, según este último indique, y suprimirá las copias existentes, salvo que el Derecho de la Unión o de los Estados miembros exija su conservación.
+
+El **ENCARGADO** podrá conservar los datos personales **debidamente bloqueados** durante un período máximo de **6 años** desde la finalización del acuerdo, exclusivamente para atender posibles responsabilidades legales derivadas de la ejecución del contrato (fiscales, civiles, mercantiles o administrativas).
+
+Durante el período de bloqueo, los datos **no podrán ser accedidos ni tratados** por el **ENCARGADO**, salvo para su puesta a disposición ante Juzgados y Tribunales, el Ministerio Fiscal, las Administraciones Públicas competentes, el Defensor del Pueblo, el Tribunal de Cuentas o autoridades de protección de datos que lo requieran para el ejercicio de sus funciones.
+
+Transcurrido el período de bloqueo sin que haya sido necesaria su conservación, los datos serán definitivamente eliminados mediante procedimientos seguros que impidan su recuperación.
 
 ### 5. Obligaciones del ENCARGADO
 
@@ -144,15 +150,29 @@ proceder a la comunicación.
 
 #### 5.5. Transferencia Internacional
 
-El **ENCARGADO** podrá transferir datos personales a terceros países u organizaciones internacionales cuando sea necesario para la prestación del servicio, siempre que se utilicen proveedores que cumplan con los mecanismos legales apropiados (Decisiones de Adecuación de la Comisión Europea, Cláusulas Contractuales Tipo, Normas Corporativas Vinculantes, o certificaciones reconocidas).
+El **ENCARGADO** podrá transferir datos personales a terceros países u organizaciones internacionales cuando sea necesario para la prestación del servicio, siempre que se cumplan las garantías previstas en el Capítulo V del RGPD.
 
-El **ENCARGADO** informará al **RESPONSABLE**, previa solicitud por escrito de éste, sobre las ubicaciones generales donde se procesan los datos. El **RESPONSABLE** acepta estas transferencias como parte de la naturaleza del servicio prestado.
+**Proveedores actuales con transferencias fuera del EEE:**
 
-Si fuera legalmente requerido transferir datos por autoridades públicas, el **ENCARGADO** informará al **RESPONSABLE** cuando sea legalmente posible hacerlo y únicamente si el **RESPONSABLE** lo solicita expresamente.
+El **ENCARGADO** declara que, a la fecha de firma de este contrato, utiliza o puede utilizar los siguientes proveedores situados o que procesan datos fuera del Espacio Económico Europeo:
+
+- **Amazon Web Services (AWS)**: Servidores en EE.UU. - Decisión de Adecuación UE-EE.UU. Data Privacy Framework y Cláusulas Contractuales Tipo (SCCs)
+- **Google Cloud Platform**: Servidores en EE.UU. - Decisión de Adecuación UE-EE.UU. Data Privacy Framework y Cláusulas Contractuales Tipo (SCCs)
+- **Otros proveedores cloud certificados**: Que dispongan de Decisión de Adecuación de la Comisión Europea o hayan suscrito las Cláusulas Contractuales Tipo aprobadas por la Comisión Europea
+
+El **ENCARGADO** incorpora como **Anexo I** de este contrato las Cláusulas Contractuales Tipo (Standard Contractual Clauses - SCCs) aprobadas por la Comisión Europea mediante Decisión de Ejecución (UE) 2021/914, de 4 de junio de 2021, que serán aplicables a todas las transferencias internacionales de datos.
+
+El **ENCARGADO** mantendrá actualizada una lista de todos los subencargados que realizan transferencias internacionales, especificando los países de destino y los mecanismos de protección aplicados. Dicha lista estará disponible para el **RESPONSABLE** previa solicitud por escrito.
+
+Si fuera legalmente requerido transferir datos por autoridades públicas de terceros países, el **ENCARGADO** informará al **RESPONSABLE** con carácter previo cuando sea legalmente posible hacerlo, a fin de que el **RESPONSABLE** pueda ejercer las acciones que considere oportunas.
 
 #### 5.6. Subcontratación
 
-**AUTORIZACIÓN ESPECÍFICA POR ESCRITO**: El **RESPONSABLE** autoriza expresamente al **ENCARGADO** para la contratación de subencargados dentro de las siguientes categorías de servicios:
+**AUTORIZACIÓN GENERAL CON NOTIFICACIÓN PREVIA**: El **RESPONSABLE** autoriza de forma general al **ENCARGADO** para la subcontratación de servicios de tratamiento de datos personales, siempre que se cumplan las condiciones establecidas en este apartado.
+
+**Categorías de servicios subcontratables:**
+
+El **ENCARGADO** podrá contratar subencargados dentro de las siguientes categorías de servicios, siempre que cumplan con los requisitos de certificación indicados:
 
 1. **Proveedores de hosting e infraestructura cloud**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean, Heroku, Vercel, Railway, Fly.io, Render, o cualquier proveedor similar que cuente con certificación ISO 27001 o SOC 2.
 
@@ -331,11 +351,29 @@ Ninguna de las partes asumirá responsabilidad alguna por la no ejecución
 o el retraso en la ejecución de cualquiera de las obligaciones en virtud
 del presente acuerdo si tal falta de ejecución o retraso resultara o
 fuera consecuencia de un supuesto de fuerza mayor o caso fortuito
-admitido como tal por la Jurisprudencia, en particular: los desastres
-naturales, la guerra, el estado de sitio, las alteraciones de orden
-público, la huelga en los transportes, el corte de suministro eléctrico
-o cualquier otra medida excepcional adoptada por las autoridades
-administrativas o gubernamentales.
+admitido como tal por la Jurisprudencia, siempre que dicho evento sea:
+(i) imprevisible, (ii) inevitable e insuperable, y (iii) ajeno a la
+parte que lo invoca.
+
+Se considerarán causas de fuerza mayor: desastres naturales de magnitud
+extraordinaria (terremotos, inundaciones catastróficas), guerra, actos
+terroristas, o medidas excepcionales de confinamiento total adoptadas por
+las autoridades gubernamentales que impidan materialmente la ejecución
+del servicio.
+
+**No se considerarán causa de fuerza mayor**: fallos técnicos ordinarios,
+cortes de suministro eléctrico de duración inferior a 24 horas
+continuadas, huelgas internas del **ENCARGADO**, ni cualquier
+circunstancia que hubiera podido evitarse mediante la adopción de medidas
+técnicas y organizativas de seguridad razonables, incluida la
+implementación de sistemas de redundancia, copias de seguridad y planes
+de continuidad del negocio.
+
+En particular, las obligaciones de seguridad, confidencialidad y
+notificación de violaciones de seguridad de datos del **ENCARGADO** no
+quedarán eximidas por causas de fuerza mayor, salvo que resulte
+materialmente imposible su cumplimiento por destrucción física total de
+las instalaciones y copias de seguridad.
 
 ### 9. Confidencialidad
 
