@@ -75,14 +75,9 @@ El presente acuerdo tiene una duración de un año y se prorrogará tácitamente
 
 Una vez finalice el presente acuerdo:
 
-El **ENCARGADO** devolverá al **RESPONSABLE** (o al encargado del
-tratamiento que designe el **RESPONSABLE**) o en su caso, destruirá, los
-datos de carácter personal y, si procede, los soportes donde consten,
-una vez acabada la prestación. El retorno ha de comportar el borrado
-total de los datos existentes en los sistemas y documentos del
-**ENCARGADO**. No obstante, el **ENCARGADO** puede conservar una copia,
-con los datos debidamente bloqueados, mientras puedan derivarse
-responsabilidades por la ejecución de la prestación.
+El **RESPONSABLE** podrá descargar desde la plataforma toda la información disponible en su cuenta previa a la finalización de la relación contractual. A partir de la fecha de cancelación de la suscripción o finalización del periodo acordado, el **ENCARGADO** conservará los datos personales durante un período máximo de 18 meses. Durante dicho período, los datos podrán mantenerse accesibles por el **ENCARGADO** para fines legítimos relacionados con la prestación del servicio, el soporte técnico, la gestión administrativa o el cumplimiento de obligaciones contractuales o legales, salvo que el Derecho de la Unión o de los Estados miembros exija su conservación por un período superior. Durante dicho período, el **RESPONSABLE** podrá solicitar al **ENCARGADO** una extracción de la información en su cuenta.
+
+El **ENCARGADO** puede conservar una copia, con los datos debidamente bloqueados, mientras puedan derivarse responsabilidades por la ejecución de la prestación.
 
 ### 5. Obligaciones del ENCARGADO
 
@@ -235,7 +230,7 @@ momento de la recogida de los datos.
 
 #### 5.12. Notificación de Violaciones de la Seguridad
 
-El **ENCARGADO** notificará al **RESPONSABLE**, sin dilación indebida, y en cualquier caso antes del plazo máximo de 24 horas, las violaciones de la seguridad de los datos personales a su cargo de las que tenga conocimiento, juntamente con toda la información relevante. Se facilitará, como mínimo, la información siguiente:
+El **ENCARGADO** notificará al **RESPONSABLE**, sin dilación indebida, y en cualquier caso antes del plazo máximo de 48 horas desde el conocimiento efectivo de las mismas, las violaciones de la seguridad de los datos personales a su cargo de las que tenga conocimiento, juntamente con toda la información relevante. Se facilitará, como mínimo, la información siguiente:
 
 > **a)** Descripción de la naturaleza de la violación de la seguridad de los datos personales, inclusive, cuando sea posible, las categorías y el número aproximado de interesados afectados, y las categorías y el número aproximado de registros de datos personales afectados.
 >
