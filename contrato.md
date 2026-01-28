@@ -1,24 +1,11 @@
 # Contrato de Encargado de Tratamiento
-
 ## Conforme al artículo 28.3 del Reglamento (UE) 2016/679 General de Protección de Datos
-
-**Fecha:** Madrid, 23 de octubre de 2025
 
 ---
 
 ## Reunidos
 
-**De una parte:**
-D. Ángel de la Parte Paris, con DNI 12709189-X, en nombre y representación de **COLEGIO MAYOR ALCALA** con domicilio en Calle Ramon Menéndez Pidal, 2, 28040, Madrid y NIF R2800817E.
-En adelante, el **RESPONSABLE** del fichero o tratamiento.
-
-**De otra parte:**
-Socialo, S.L., con NIF B26602979, en su propio nombre y representación, con domicilio en Paseo de la Castellana, 194, Bajo B, Madrid (28046), Madrid, España.
-En adelante, el **ENCARGADO** del tratamiento.
-
-Ambas partes se reconocen mutuamente la capacidad legal bastante para suscribir este contrato y quedar obligadas en la representación en que respectivamente actúan.
-
----
+Las partes identificadas en el **APÉNDICE I** del presente contrato, actuando en la representación que ostentan y reconociéndose mutuamente la capacidad legal necesaria para contratar y obligarse.
 
 ## Exponen
 
@@ -30,33 +17,11 @@ Que el Reglamento General de Protección de Datos (Reglamento UE 2016/679 del Pa
 
 ### 1. Objeto del Encargo
 
-Mediante las presentes cláusulas se habilita a SOCIALO, **ENCARGADO**
-del tratamiento, para tratar por cuenta de COLEGIO MAYOR ALCALA,
-**RESPONSABLE**, los datos de carácter personal necesarios para prestar
-el siguiente servicio:
+Mediante las presentes cláusulas se habilita a SOCIALO, **ENCARGADO** del tratamiento, para tratar por cuenta del **RESPONSABLE**, los datos de carácter personal necesarios para prestar el siguiente servicio:
 
-- Plataforma diseñada para impulsar la participación, fortalecer la
-  comunidad y mejorar la comunicación interna en comunidades, organizaciones,
-  instituciones educativas, residencias, asociaciones y entidades de diversa
-  índole.
+- Plataforma diseñada para impulsar la participación, fortalecer la comunidad y mejorar la comunicación interna en comunidades, organizaciones, instituciones educativas, residencias, asociaciones y entidades de diversa índole.
 
-El tratamiento de datos personales incluirá los siguientes aspectos:
-
-- Recogida
-- Registro
-- Estructuración
-- Modificación
-- Conservación
-- Extracción
-- Consulta
-- Comunicación por transmisión
-- Difusión
-- Interconexión
-- Cotejo
-- Limitación
-- Supresión
-- Destrucción
-- Comunicación
+El tratamiento de datos personales incluirá los siguientes aspectos: Recogida, Registro, Estructuración, Modificación, Conservación, Extracción, Consulta, Comunicación por transmisión, Difusión, Interconexión, Cotejo, Limitación, Supresión, Destrucción y Comunicación.
 
 ### 2. Identificación de la Información Afectada
 
@@ -67,29 +32,18 @@ Para la ejecución de las prestaciones derivadas del cumplimiento del objeto de 
 El **ENCARGADO** está autorizado a tratar exclusivamente las siguientes categorías de datos personales, en la medida en que el **RESPONSABLE** los habilite y facilite a través de la plataforma:
 
 a) **Datos de identificación:** Nombre, apellidos, documento de identidad (DNI, NIE, pasaporte u otro documento identificativo), fotografía.
-
 b) **Datos de contacto:** Correo electrónico (personal e institucional), número de teléfono móvil y fijo, dirección postal, perfiles de redes sociales profesionales.
-
 c) **Datos de contexto organizacional:** Información académica, profesional o de contexto relevante para la comunidad (por ejemplo: carrera universitaria, institución, departamento, área profesional, especialización, cargo, función o rol dentro de la organización).
-
 d) **Datos de ubicación o asignación:** Ubicación, espacio asignado o información de pertenencia dentro de la organización (por ejemplo: número de habitación, edificio, oficina, área, sección, grupo, equipo o unidad), fechas de incorporación y finalización prevista cuando aplique.
-
 e) **Datos de participación y actividad:** Actividades en las que participa, eventos a los que asiste, preferencias de actividades, intereses personales declarados, grupos o comisiones a los que pertenece, comentarios y valoraciones.
-
 f) **Datos de perfil de usuario:** Biografía personal, intereses, aficiones, idiomas, habilidades, preferencias de notificación y comunicación.
-
 g) **Datos de uso de la plataforma:** Registro de accesos, fecha y hora de conexión, páginas visitadas dentro de la plataforma, interacciones con contenidos.
-
 h) **Otros datos identificativos:** Cualquier otro dato de carácter identificativo no comprendido en las categorías anteriores que el **RESPONSABLE** considere necesario facilitar al **ENCARGADO** para la correcta prestación del servicio objeto de este contrato, siempre que no constituyan categorías especiales de datos conforme al artículo 9 del RGPD.
 
 #### 2.2. Categorías de Interesados
 
-Las categorías de personas cuyos datos personales serán tratados son:
-
 a) **Miembros de la comunidad:** Personas que forman parte de la organización, comunidad o institución y utilizan la plataforma (por ejemplo: residentes, colegiales, estudiantes, miembros, socios, asociados, participantes o usuarios habituales).
-
 b) **Personal de la organización:** Personal administrativo, directivo, de gestión, coordinación y otro personal autorizado por el **RESPONSABLE** que requiera acceso a la plataforma para el desempeño de sus funciones.
-
 c) **Otros usuarios autorizados:** Cualquier otra persona física que el **RESPONSABLE** autorice expresamente para acceder a la plataforma (por ejemplo: antiguos miembros, colaboradores externos, proveedores de servicios o actividades, invitados, visitantes).
 
 #### 2.3. Finalidad del Tratamiento
@@ -490,17 +444,73 @@ les pudiera corresponder.
 
 ---
 
+## APÉNDICE I
+
+## Lista de Partes
+
+## Responsable(s) del Tratamiento:
+
+**Nombre:** _______________________________
+
+**Dirección:** _______________________________
+
+**Nombre de la persona de contacto y datos de contacto:**
+_______________________________
+Teléfono: _______________________________
+Email: _______________________________
+
+## Encargado(s) del Tratamiento:
+
+**Nombre:** Socialo, S.L.
+
+**NIF:** B26602979
+
+**Dirección:** Paseo de la Castellana, 194, Bajo B, 28046 Madrid, España
+
+**Nombre de la persona de contacto, cargo y datos de contacto:**
+José Javier Román Camacho
+Cargo: CEO
+Email: dpo@socialo.live
+
+**Descripción del tratamiento**
+
+- Creación y gestión de usuarios en la plataforma.
+- Gestión y almacenamiento de datos personales necesarios para proporcionar los servicios de comunicación y participación comunitaria.
+- Envío de notificaciones y comunicaciones relacionadas con el uso de la plataforma.
+- Organización y promoción de actividades y eventos.
+- Servicios de calidad y mejora de la plataforma.
+- Asistencia técnica.
+
+**Categorías de interesados cuyos datos personales se tratan:**
+
+- Miembros de la comunidad u organización
+- Personal administrativo y directivo
+- Otros usuarios autorizados
+
+**Comunicación:**
+
+Email: dpo@socialo.live
+
+SOCIALO ha designado un Delegado de Protección de Datos en su organización. Si quieres hacer una consulta respecto al tratamiento de tus datos personales, puedes contactarnos a través del email indicado anteriormente.
+
+**Naturaleza del tratamiento:**
+
+Recopilación, almacenamiento, recuperación, consulta, utilización, restricción, borrado o destrucción.
+
+**Finalidad(es) para la que se tratan los datos personales por cuenta del Responsable del Tratamiento:** Suministro de los servicios acordados en el presente contrato. Siendo pues la base legal la relación contractual con el Responsable.
+
+**Duración del tratamiento:** La duración de este contrato se establece en la Sección 3 del presente documento.
+
+---
+
 ## Firmas
 
-**RESPONSABLE del Fichero:**
+En _________________, a _____ de _______________ de _____
 
-COLEGIO MAYOR ALCALA
+**Por el RESPONSABLE del Tratamiento:**
+Nombre: _______________________________ | Cargo: _______________________________
+Firma: _________________________________
 
-_________________________________
-
-
-**ENCARGADO del Tratamiento:**
-
-SOCIALO
-
-_________________________________
+**Por el ENCARGADO del Tratamiento - SOCIALO, S.L.:**
+Nombre: José Javier Román Camacho | Cargo: CEO
+Firma: _________________________________
