@@ -1,36 +1,34 @@
-# 
+# Contrato de Encargado de Tratamiento
 
-# Contrato de encargado de tratamiento conforme al artículo 28.3 del Reglamento (UE) 2016/679 General de Protección de Datos
+## Conforme al artículo 28.3 del Reglamento (UE) 2016/679 General de Protección de Datos
 
-En Madrid, a 23 de octubre de 2025
+**Fecha:** Madrid, 23 de octubre de 2025
+
+---
 
 ## Reunidos
 
-**De una parte**, D. Ángel de la Parte Paris, con DNI 12709189-X, en
-nombre y representación de COLEGIO MAYOR ALCALA con domicilio en Calle
-Ramon Menéndez Pidal, 2, 28040, Madrid y NIF R2800817E, en adelante El
-**RESPONSABLE** del fichero o tratamiento.
+**De una parte:**
+D. Ángel de la Parte Paris, con DNI 12709189-X, en nombre y representación de **COLEGIO MAYOR ALCALA** con domicilio en Calle Ramon Menéndez Pidal, 2, 28040, Madrid y NIF R2800817E.
+En adelante, el **RESPONSABLE** del fichero o tratamiento.
 
-**Y de otra parte**, D. José Javier Román Camacho (SOCIALO), con DNI
-51818618D, en su propio nombre y representación, con domicilio en Calle
-de las Flores, 71, Aranjuez, 28300, Madrid, en adelante El **ENCARGADO**
-del tratamiento.
+**De otra parte:**
+D. José Javier Román Camacho (SOCIALO), con DNI 51818618D, en su propio nombre y representación, con domicilio en Calle de las Flores, 71, Aranjuez, 28300, Madrid.
+En adelante, el **ENCARGADO** del tratamiento.
 
-Ambas partes se reconocen mutuamente la capacidad legal bastante para
-suscribir este contrato y quedar obligadas en la representación en que
-respectivamente actúan. A tal fin,
+Ambas partes se reconocen mutuamente la capacidad legal bastante para suscribir este contrato y quedar obligadas en la representación en que respectivamente actúan.
+
+---
 
 ## Exponen
 
-Que el Reglamento General de Protección de Datos (Reglamento UE 2016/679
-del Parlamento Europeo y el Consejo) en adelante RGPD-UE, establece que
-el tratamiento de datos personales por parte de un encargado se regirá
-por un contrato u otro acto jurídico. El contenido de dicho contrato se
-regula en el artículo 28.3 del RGPD-UE
+Que el Reglamento General de Protección de Datos (Reglamento UE 2016/679 del Parlamento Europeo y el Consejo), en adelante **RGPD-UE**, establece que el tratamiento de datos personales por parte de un encargado se regirá por un contrato u otro acto jurídico. El contenido de dicho contrato se regula en el artículo 28.3 del RGPD-UE.
+
+---
 
 ## Estipulaciones
 
-### .- Objeto del encargo.
+### 1. Objeto del Encargo
 
 Mediante las presentes cláusulas se habilita a SOCIALO, **ENCARGADO**
 del tratamiento, para tratar por cuenta de COLEGIO MAYOR ALCALA,
@@ -43,23 +41,23 @@ el siguiente servicio:
 
 El tratamiento de datos personales incluirá los siguientes aspectos:
 
--Recogida -Registro
+- Recogida
+- Registro
+- Estructuración
+- Modificación
+- Conservación
+- Extracción
+- Consulta
+- Comunicación por transmisión
+- Difusión
+- Interconexión
+- Cotejo
+- Limitación
+- Supresión
+- Destrucción
+- Comunicación
 
--Estructuración -Modificación
-
--Conservación -Extracción
-
--Consulta -Comunicación por transmisión
-
--Difusión -Interconexión
-
--Cotejo -Limitación
-
--Supresión -Destrucción
-
--Comunicación
-
-### .- Identificación de la información afectada.
+### 2. Identificación de la Información Afectada
 
 Para la ejecución de las prestaciones derivadas del cumplimiento del
 objeto de este encargo, COLEGIO MAYOR ALCALA (**RESPONSABLE** del
@@ -69,13 +67,11 @@ la información necesaria, lo que incluye:
 - Nombre completo, número de habitación, carrera universitaria,
   institución académica y actividades en las que participa el colegial
 
-### .- Duración.
+### 3. Duración
 
-El presente acuerdo tiene una duración de un año y se prorrogará
-tácitamente salvo que alguna de las partes manifieste su negativa con un
-plazo de antelación mínima de un mes.
+El presente acuerdo tiene una duración de un año y se prorrogará tácitamente salvo que alguna de las partes manifieste su negativa con un plazo de antelación mínima de un mes.
 
-### .- Devolución de los datos.
+### 4. Devolución de los Datos
 
 Una vez finalice el presente acuerdo:
 
@@ -88,25 +84,20 @@ total de los datos existentes en los sistemas y documentos del
 con los datos debidamente bloqueados, mientras puedan derivarse
 responsabilidades por la ejecución de la prestación.
 
-### .- Obligaciones del ENCARGADO.
+### 5. Obligaciones del ENCARGADO
 
-#### - Finalidad:
+#### 5.1. Finalidad
 
-El **ENCARGADO** utilizará los datos personales objeto de tratamiento
-sólo para la finalidad objeto de este encargo. En ningún caso podrá
-utilizar los datos para fines propios.
+El **ENCARGADO** utilizará los datos personales objeto de tratamiento sólo para la finalidad objeto de este encargo. En ningún caso podrá utilizar los datos para fines propios.
 
-#### - Instrucciones del RESPONSABLE:
+#### 5.2. Instrucciones del RESPONSABLE
 
 El **ENCARGADO** tratará los datos de acuerdo con las instrucciones del
 **RESPONSABLE**.
 
-Si el **ENCARGADO** considera que alguna de las instrucciones infringe
-el RGPD-UE o cualquier otra disposición en materia de protección de
-datos de la Unión o Europea de los Estados miembros, el **ENCARGADO**
-informará inmediatamente al **RESPONSABLE**.
+Si el **ENCARGADO** considera que alguna de las instrucciones infringe el RGPD-UE o cualquier otra disposición en materia de protección de datos de la Unión o Europea de los Estados miembros, el **ENCARGADO** informará inmediatamente al **RESPONSABLE**.
 
-#### - Registro de actividades de tratamiento:
+#### 5.3. Registro de Actividades de Tratamiento
 
 El **ENCARGADO** llevará un registro de todas las categorías de
 actividades de tratamiento efectuadas por cuenta del **RESPONSABLE**,
@@ -143,7 +134,7 @@ que contendrá:
 > la eficacia de las medidas técnicas y organizativas para garantizar la
 > seguridad del tratamiento.
 
-#### - No comunicación:
+#### 5.4. No Comunicación
 
 El **ENCARGADO** no comunicará los datos a terceras personas, salvo que
 cuente con la autorización expresa del **RESPONSABLE**, en los supuestos
@@ -156,7 +147,7 @@ forma previa y por escrito, la entidad a la que se deben comunicar los
 datos, los datos a comunicar y las medidas de seguridad a aplicar para
 proceder a la comunicación.
 
-#### - Transferencia internacional:
+#### 5.5. Transferencia Internacional
 
 Si el **ENCARGADO** debe transferir datos personales a un tercer país o
 a una organización internacional, en virtud del Derecho de la Unión o de
@@ -164,7 +155,7 @@ los Estados miembros que le sea aplicable, informará al **RESPONSABLE**
 de esa exigencia legal de manera previa, salvo que tal Derecho lo
 prohíba por razones importantes de interés público.
 
-#### - Subcontratación:
+#### 5.6. Subcontratación
 
 No se permite subcontratar ninguna de las prestaciones que formen parte
 del objeto de este contrato que comporte el tratamiento de datos
@@ -191,14 +182,14 @@ incumplimiento por parte del subencargado, el encargado inicial seguirá
 siendo plenamente responsable ante el responsable en lo referente al
 cumplimiento de las obligaciones.
 
-#### - Deber de secreto:
+#### 5.7. Deber de Secreto
 
 El **ENCARGADO** y todo su personal mantendrán el deber de secreto
 respecto a los datos de carácter personal a los que hayan tenido acceso
 en virtud del presente encargo, incluso después de que finalice el
 mismo.
 
-#### - Compromisos de confidencialidad por escrito:
+#### 5.8. Compromisos de Confidencialidad por Escrito
 
 El **ENCARGADO** garantizará que las personas autorizadas para tratar
 datos personales se comprometan, de forma expresa y por escrito, a
@@ -208,13 +199,13 @@ correspondientes, de las que hay que informarles convenientemente.
 El **ENCARGADO** mantendrá a disposición del **RESPONSABLE** la
 documentación acreditativa del cumplimiento de esta obligación.
 
-#### - Formación de las personas autorizadas:
+#### 5.9. Formación de las Personas Autorizadas
 
 El **ENCARGADO** garantizará la formación necesaria en materia de
 protección de datos personales de las personas autorizadas para tratar
 datos personales.
 
-#### - Asistencia en caso de ejercicio de derechos:
+#### 5.10. Asistencia en Caso de Ejercicio de Derechos
 
 El ENCARGADO asistirá al RESPONSABLE en la respuesta al ejercicio de los
 derechos de:
@@ -237,35 +228,22 @@ inmediata y en ningún caso más allá del día laborable siguiente al de la
 recepción de la solicitud, juntamente, en su caso, con otras
 informaciones que puedan ser relevantes para resolver la solicitud.
 
-#### - Derecho de información:
+#### 5.11. Derecho de Información
 
 Corresponde al RESPONSABLE facilitar el derecho de información en el
 momento de la recogida de los datos.
 
-#### - Notificación de violaciones de la seguridad:
+#### 5.12. Notificación de Violaciones de la Seguridad
 
-El **ENCARGADO** notificará al **RESPONSABLE**, sin dilación indebida, y
-en cualquier caso antes del plazo máximo de 24 horas, las violaciones de
-la seguridad de los datos personales a su cargo de las que tenga
-conocimiento, juntamente con toda la información relevante. Se
-facilitará, como mínimo, la información siguiente:
+El **ENCARGADO** notificará al **RESPONSABLE**, sin dilación indebida, y en cualquier caso antes del plazo máximo de 24 horas, las violaciones de la seguridad de los datos personales a su cargo de las que tenga conocimiento, juntamente con toda la información relevante. Se facilitará, como mínimo, la información siguiente:
 
-> a\) Descripción de la naturaleza de la violación de la seguridad de
-> los datos personales, inclusive, cuando sea posible, las categorías y
-> el número aproximado de interesados afectados, y las categorías y el
-> número aproximado de registros de datos personales afectados.
+> **a)** Descripción de la naturaleza de la violación de la seguridad de los datos personales, inclusive, cuando sea posible, las categorías y el número aproximado de interesados afectados, y las categorías y el número aproximado de registros de datos personales afectados.
 >
-> b\) El nombre y los datos de contacto del delegado de protección de
-> datos o de otro punto de contacto del **ENCARGADO** en el que pueda
-> obtenerse más información.
+> **b)** El nombre y los datos de contacto del delegado de protección de datos o de otro punto de contacto del **ENCARGADO** en el que pueda obtenerse más información.
 >
-> c\) Descripción de las posibles consecuencias de la violación de la
-> seguridad de los datos personales.
+> **c)** Descripción de las posibles consecuencias de la violación de la seguridad de los datos personales.
 >
-> d\) Descripción de las medidas adoptadas o propuestas para poner
-> remedio a la violación de la seguridad de los datos personales,
-> incluyendo, si procede, las medidas adoptadas para mitigar los
-> posibles efectos negativos.
+> **d)** Descripción de las medidas adoptadas o propuestas para poner remedio a la violación de la seguridad de los datos personales, incluyendo, si procede, las medidas adoptadas para mitigar los posibles efectos negativos.
 
 Si no es posible facilitar la información simultáneamente, y en la
 medida en que no lo sea, la información se facilitará de manera gradual
@@ -285,18 +263,18 @@ de los datos a los interesados, cuando sea necesario. El ENCARGADO
 prestará el apoyo necesario para que el RESPONSABLE pueda realizar dicha
 comunicación en el menor tiempo posible.
 
-#### - Apoyo en realización de evaluaciones de impacto para la protección de datos:
+#### 5.13. Apoyo en Realización de Evaluaciones de Impacto para la Protección de Datos
 
 El **ENCARGADO** dará apoyo al **RESPONSABLE** en la realización de las
 evaluaciones de impacto relativas a la protección de datos, cuando
 proceda.
 
-#### - Apoyo en la realización de consultas previas a las autoridades de control:
+#### 5.14. Apoyo en la Realización de Consultas Previas a las Autoridades de Control
 
 El **ENCARGADO** dará apoyo al **RESPONSABLE** en la realización de las
 consultas previas a la autoridad de control, cuando proceda.
 
-#### - Cumplimiento de las obligaciones:
+#### 5.15. Cumplimiento de las Obligaciones
 
 El **ENCARGADO** pondrá a disposición del RESPONSABLE toda la
 información necesaria para demostrar el cumplimiento de sus
@@ -304,50 +282,40 @@ obligaciones, así como para la realización de las auditorías o las
 inspecciones que realicen el **RESPONSABLE** u otro auditor autorizado
 por él.
 
-#### - Medidas de seguridad:
+#### 5.16. Medidas de Seguridad
 
 El ENCARGADO aplicará como mínimo las medidas de seguridad que permitan:
 
-> a\) Garantizar la confidencialidad, integridad, disponibilidad y
-> resiliencia permanentes de los sistemas y servicios de tratamiento.
+> **a)** Garantizar la confidencialidad, integridad, disponibilidad y resiliencia permanentes de los sistemas y servicios de tratamiento.
 >
-> b\) Restaurar la disponibilidad y el acceso a los datos personales de
-> forma rápida, en caso de incidente físico o técnico.
+> **b)** Restaurar la disponibilidad y el acceso a los datos personales de forma rápida, en caso de incidente físico o técnico.
 >
-> c\) Verificar, evaluar y valorar, de forma regular, la eficacia de las
-> medidas técnicas y organizativas implantadas para garantizar la
-> seguridad del tratamiento.
+> **c)** Verificar, evaluar y valorar, de forma regular, la eficacia de las medidas técnicas y organizativas implantadas para garantizar la seguridad del tratamiento.
 >
-> d\) Seudonimizar y cifrar los datos personales, en su caso.
+> **d)** Seudonimizar y cifrar los datos personales, en su caso.
 
-#### - Delegado de protección de datos:
+#### 5.17. Delegado de Protección de Datos
 
 El ENCARGADO comunicará la identidad y los datos de contacto del
 delegado de protección de datos al **RESPONSABLE**, siempre y cuando su
 nombramiento resulte obligatorio o el **ENCARGADO** haya procedido a
 nombrarlo de forma voluntaria.
 
-### .- Obligaciones del RESPONSABLE.
+### 6. Obligaciones del RESPONSABLE
 
 Corresponde al **RESPONSABLE** del tratamiento:
 
-> a\) Entregar al **ENCARGADO** los datos necesarios para la prestación
-> de servicios a los que se refiere este acuerdo.
+> **a)** Entregar al **ENCARGADO** los datos necesarios para la prestación de servicios a los que se refiere este acuerdo.
 >
-> b\) Realizar cuando así lo exija la normativa una evaluación del
-> impacto en la protección de datos personales de las operaciones de
-> tratamiento a realizar por el **ENCARGADO**.
+> **b)** Realizar cuando así lo exija la normativa una evaluación del impacto en la protección de datos personales de las operaciones de tratamiento a realizar por el **ENCARGADO**.
 >
-> c\) Realizar las consultas previas que corresponda ante las
-> Autoridades de Protección de Datos.
+> **c)** Realizar las consultas previas que corresponda ante las Autoridades de Protección de Datos.
 >
-> d\) Velar, de forma previa y durante todo el tratamiento, por el
-> cumplimiento del RGPD-UE por parte del **ENCARGADO**.
+> **d)** Velar, de forma previa y durante todo el tratamiento, por el cumplimiento del RGPD-UE por parte del **ENCARGADO**.
 >
-> e\) Supervisar el tratamiento de los datos, incluida la realización de
-> inspecciones y auditorías.
+> **e)** Supervisar el tratamiento de los datos, incluida la realización de inspecciones y auditorías.
 
-### .- Incumplimiento:
+### 7. Incumplimiento
 
 El incumplimiento por parte del **ENCARGADO** de las obligaciones
 referidas en el presente acuerdo comportará que sea considerado también
@@ -357,7 +325,7 @@ infracciones que se puedan haber cometido derivadas de la ejecución del
 presente acuerdo y/o del cumplimiento de la legislación vigente en
 materia de protección de datos de carácter personal.
 
-### .- Responsabilidad:
+### 8. Responsabilidad
 
 Tanto el **RESPONSABLE** como el **ENCARGADO** responderán de la
 totalidad de los daños y perjuicios que se irroguen a la otra parte en
@@ -375,7 +343,7 @@ público, la huelga en los transportes, el corte de suministro eléctrico
 o cualquier otra medida excepcional adoptada por las autoridades
 administrativas o gubernamentales.
 
-### .- Confidencialidad:
+### 9. Confidencialidad
 
 El **ENCARGADO** garantiza que mantendrá la más estricta
 confidencialidad y expreso cumplimiento del deber de secreto profesional
@@ -395,40 +363,27 @@ intangible, actualmente conocido o que se invente en un futuro, ya sea
 intercambiada como consecuencia de esta relación contractual o que una
 parte señale o designe como confidencial a la otra.
 
-### .- Notificaciones:
+### 10. Notificaciones
 
 Toda notificación necesaria a los efectos del presente acuerdo se hará
 por escrito a la atención y dirección de quien consta en el
 encabezamiento del presente acuerdo.
 
-### .- Generalidades:
+### 11. Generalidades
 
-1\. Este contrato contiene el total acuerdo entre las partes sobre el
-mismo objeto y sustituye y reemplaza a cualquier acuerdo anterior,
-verbal o escrito, al que hubieran llegado las partes.
+**1.** Este contrato contiene el total acuerdo entre las partes sobre el mismo objeto y sustituye y reemplaza a cualquier acuerdo anterior, verbal o escrito, al que hubieran llegado las partes.
 
-Asimismo, en caso de contradicción entre las condiciones estipuladas en
-el presente acuerdo y cualquier otro firmado con anterioridad entre
-ambas partes, prevalecerá lo estipulado en el presente acuerdo.
+Asimismo, en caso de contradicción entre las condiciones estipuladas en el presente acuerdo y cualquier otro firmado con anterioridad entre ambas partes, prevalecerá lo estipulado en el presente acuerdo.
 
-2\. Nada de lo estipulado en el presente acuerdo supone identidad de
-partes, o que una sea considerada el agente de la otra. Ninguna parte
-responderá de cualquier declaración, acto u omisión de la otra parte que
-fuese contrario a lo anterior.
+**2.** Nada de lo estipulado en el presente acuerdo supone identidad de partes, o que una sea considerada el agente de la otra. Ninguna parte responderá de cualquier declaración, acto u omisión de la otra parte que fuese contrario a lo anterior.
 
-3\. Cualquier modificación del contenido de este acuerdo, sólo será
-efectiva si se realiza por escrito y con el consentimiento de ambas
-partes.
+**3.** Cualquier modificación del contenido de este acuerdo, sólo será efectiva si se realiza por escrito y con el consentimiento de ambas partes.
 
-4\. La no exigencia por cualquiera de las partes de cualquiera de sus
-derechos de conformidad con el presente acuerdo no se considerará que
-constituya una renuncia de dichos derechos en el futuro.
+**4.** La no exigencia por cualquiera de las partes de cualquiera de sus derechos de conformidad con el presente acuerdo no se considerará que constituya una renuncia de dichos derechos en el futuro.
 
-5\. Los documentos contractuales son, en orden de prioridad, el presente
-contrato y sus anexos. En caso de contradicción el contrato prevalecerá
-sobre los anexos.
+**5.** Los documentos contractuales son, en orden de prioridad, el presente contrato y sus anexos. En caso de contradicción el contrato prevalecerá sobre los anexos.
 
-### .- Legislación y jurisdicción:
+### 12. Legislación y Jurisdicción
 
 El presente acuerdo se regirá e interpretará conforme a la legislación
 española en todo aquello que no esté expresamente regulado, sometiéndose
@@ -437,8 +392,19 @@ mismo, a la competencia de los Juzgados y Tribunales de la ciudad
 señalada en el encabezamiento, con renuncia a cualquier otro fuero que
 les pudiera corresponder.
 
-Firmado,
+---
 
-RESPONSABLE del fichero, COLEGIO MAYOR ALCALA
+## Firmas
 
-ENCARGADO del tratamiento, SOCIALO
+**RESPONSABLE del Fichero:**
+
+COLEGIO MAYOR ALCALA
+
+_________________________________
+
+
+**ENCARGADO del Tratamiento:**
+
+SOCIALO
+
+_________________________________
