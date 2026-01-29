@@ -165,6 +165,8 @@ El incumplimiento de la obligación de confidencialidad asumida en este acuerdo 
 
 **Delegado de Protección de Datos:** Para cualquier consulta relacionada con el tratamiento de datos personales, puede contactar con nuestro DPO en dpo@socialo.live.
 
+**Autoridad de Control:** Si considera que sus derechos no han sido debidamente atendidos, puede presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD) en www.aepd.es.
+
 ## 13. Datos de uso y mejora del servicio
 
 Con el fin de mejorar continuamente nuestros servicios y comprender mejor cómo interactúan los usuarios con la plataforma, recopilamos y analizamos datos de uso de manera agregada. Esto incluye métricas como el número de usuarios activos, uso de funcionalidades específicas, participación en actividades y eventos, y otros indicadores de uso de la plataforma. Estos datos se usan para fines estadísticos, optimización de producto, análisis del rendimiento y para mejorar la experiencia del usuario.
@@ -188,7 +190,7 @@ Las comunicaciones electrónicas se considerarán válidas y plenamente eficaces
 
 **Nuevos clientes:** Si durante los primeros treinta (30) días utilizando Socialo el Cliente no está satisfecho con el servicio, debe contactar a través de info@socialo.live. Socialo se compromete a encontrar una solución a sus necesidades, y si no fuera posible, se procederá a la devolución del dinero.
 
-**Renovación de las suscripciones:** Las suscripciones se renuevan automáticamente según el período contratado, salvo que el Cliente notifique su voluntad de no renovar con al menos treinta (30) días naturales de antelación al inicio del siguiente periodo. Se realizará un reembolso completo por causa de cancelación hasta siete (7) días hábiles después de la fecha de renovación automática.
+**Renovación de las suscripciones:** Las suscripciones se renuevan automáticamente según el período contratado, salvo que el Cliente notifique su voluntad de no renovar con al menos treinta (30) días naturales de antelación al inicio del siguiente periodo. Una vez producida la renovación automática, no procederá reembolso alguno por el periodo renovado.
 
 **Excepción de la política de devoluciones:** No se aceptarán solicitudes de devolución de Clientes a los que se les haya suspendido o resuelto el servicio por el incumplimiento de los términos y condiciones.
 
