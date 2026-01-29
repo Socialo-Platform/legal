@@ -234,13 +234,118 @@
             display: block;
         }
 
+        .doc-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
         .doc-title {
             font-size: 1.75rem;
             font-weight: 600;
             letter-spacing: -0.02em;
-            margin-bottom: 2rem;
-            padding-bottom: 1rem;
-            border-bottom: 1px solid var(--border);
+            margin: 0;
+        }
+
+        .download-btn {
+            flex-shrink: 0;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.5rem 0.75rem;
+            font-size: 0.8rem;
+            font-family: inherit;
+            color: var(--text-light);
+            background: var(--bg-alt);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .download-btn:hover {
+            color: var(--text);
+            border-color: var(--text-light);
+        }
+
+        .download-btn svg {
+            width: 14px;
+            height: 14px;
+        }
+
+        @media print {
+            @page {
+                margin: 2cm;
+            }
+            * {
+                color: #000 !important;
+                background: #fff !important;
+            }
+            .sidebar, .mobile-header, .overlay, .download-btn, footer, .signed-badge {
+                display: none !important;
+            }
+            .layout {
+                display: block !important;
+            }
+            .main {
+                margin-left: 0 !important;
+            }
+            .content-area {
+                padding: 0 !important;
+                max-width: 100% !important;
+            }
+            .panel {
+                display: none !important;
+            }
+            .panel.active {
+                display: block !important;
+            }
+            .doc-header {
+                border-bottom: 1px solid #000 !important;
+            }
+            .doc-title {
+                font-size: 1.5rem !important;
+            }
+            .content h2 {
+                font-size: 1.1rem !important;
+                margin-top: 1.5rem !important;
+                page-break-after: avoid;
+            }
+            .content h3, .content h4 {
+                page-break-after: avoid;
+            }
+            .content p, .content li, .content td {
+                color: #000 !important;
+                font-size: 11pt !important;
+                line-height: 1.5 !important;
+                text-align: justify !important;
+            }
+            .content table {
+                font-size: 10pt !important;
+                border-collapse: collapse !important;
+            }
+            .content th, .content td {
+                border: 1px solid #000 !important;
+                padding: 0.5rem !important;
+            }
+            .content th {
+                background: #f0f0f0 !important;
+            }
+            .content a {
+                text-decoration: none !important;
+            }
+            .content hr {
+                border-top: 1px solid #000 !important;
+                margin: 1.5rem 0 !important;
+            }
+            .content code {
+                background: #f0f0f0 !important;
+                border: 1px solid #ccc !important;
+            }
         }
 
         .content h1 { display: none; }
@@ -494,7 +599,17 @@
         <div class="main">
             <div class="content-area">
                 <div class="panel" id="en-terms_and_conditions">
-                    <h1 class="doc-title">Terms and Conditions</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Terms and Conditions</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Download
+                        </button>
+                    </div>
                     <div class="content"><h1>Terms and Conditions</h1>
 <p><strong>Last updated:</strong> January 2026</p>
 <h2>Terms of Service</h2>
@@ -621,7 +736,17 @@
 <p><strong>Data protection (DPO):</strong> dpo@socialo.live</p></div>
                 </div>
                 <div class="panel" id="en-privacy_policy">
-                    <h1 class="doc-title">Privacy Policy</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Privacy Policy</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Download
+                        </button>
+                    </div>
                     <div class="content"><h1>SOCIALO Privacy Policy</h1>
 <h2>1. INTRODUCTION</h2>
 <p>At SOCIALO we work to offer the user the best possible experience through our mobile application. In some cases, it is necessary to collect information to achieve this.</p>
@@ -840,7 +965,17 @@
 <p><em>This privacy policy has been drafted in accordance with Regulation (EU) 2016/679 (GDPR) and Organic Law 3/2018 (LOPDGDD).</em></p></div>
                 </div>
                 <div class="panel" id="en-cookie_policy">
-                    <h1 class="doc-title">Cookie Policy</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Cookie Policy</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Download
+                        </button>
+                    </div>
                     <div class="content"><h1>Cookie Policy</h1>
 <p><strong>Last updated:</strong> January 2026</p>
 <h2>1. What are cookies?</h2>
@@ -945,7 +1080,17 @@
 <p><em>This policy complies with Article 22.2 of Law 34/2002 (LSSI), Regulation (EU) 2016/679 (GDPR), and Organic Law 3/2018 (LOPDGDD).</em></p></div>
                 </div>
                 <div class="panel" id="en-subprocessors">
-                    <h1 class="doc-title">Subprocessors</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Subprocessors</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Download
+                        </button>
+                    </div>
                     <div class="content"><h1>Subprocessors</h1>
 <p><strong>Last updated:</strong> January 2026</p>
 <p>The following subprocessors are authorized to process personal data on behalf of Socialo, S.L.:</p>
@@ -980,7 +1125,17 @@
 <p>For more information about subprocessors: <strong>dpo@socialo.live</strong></p></div>
                 </div>
                 <div class="panel" id="en-standard_contract">
-                    <h1 class="doc-title">Subscription Contract<span class="signed-badge">Requires client signature</span></h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Subscription Contract<span class="signed-badge">Requires client signature</span></h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Download
+                        </button>
+                    </div>
                     <div class="content"><h1>Order Form - Subscription Contract</h1>
 <p><strong>Prepared by:</strong> <code>[<strong><em></strong><strong></em></strong><strong><em></strong></em>]</code></p>
 <p><strong>Order No.:</strong> <code>[<strong><em></strong><strong></em></strong><strong><em></strong></em>]</code></p>
@@ -1184,7 +1339,17 @@
 <p>Tax ID: B26602979 | info@socialo.live | www.socialo.live</p></div>
                 </div>
                 <div class="panel" id="en-data_processing_agreement">
-                    <h1 class="doc-title">Data Processing Agreement<span class="signed-badge">Requires client signature</span></h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Data Processing Agreement<span class="signed-badge">Requires client signature</span></h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Download
+                        </button>
+                    </div>
                     <div class="content"><h1>Data Processing Agreement</h1>
 <h2>Pursuant to Article 28.3 of Regulation (EU) 2016/679 General Data Protection Regulation</h2>
 <hr>
@@ -1446,7 +1611,17 @@
 <p>Signature: <strong><em></strong><strong></em></strong><strong><em></strong><strong></em></strong><strong><em></strong><strong></em></strong><em>_</em></p></div>
                 </div>
                 <div class="panel" id="es-terms_and_conditions">
-                    <h1 class="doc-title">Términos y Condiciones</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Términos y Condiciones</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Descargar
+                        </button>
+                    </div>
                     <div class="content"><h1>Términos y condiciones</h1>
 <p><strong>Última actualización:</strong> Enero 2026</p>
 <h2>Condiciones de uso</h2>
@@ -1573,7 +1748,17 @@
 <p><strong>Protección de datos (DPO):</strong> dpo@socialo.live</p></div>
                 </div>
                 <div class="panel" id="es-privacy_policy">
-                    <h1 class="doc-title">Política de Privacidad</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Política de Privacidad</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Descargar
+                        </button>
+                    </div>
                     <div class="content"><h1>Política de Privacidad de SOCIALO</h1>
 <h2>1. INTRODUCCIÓN</h2>
 <p>En SOCIALO trabajamos para ofrecer al usuario la mejor experiencia posible a través de nuestra aplicación móvil. En algunos casos, es necesario recopilar información para lograrlo.</p>
@@ -1792,7 +1977,17 @@
 <p><em>Esta política de privacidad ha sido redactada conforme al Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).</em></p></div>
                 </div>
                 <div class="panel" id="es-politica_cookies">
-                    <h1 class="doc-title">Política de Cookies</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Política de Cookies</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Descargar
+                        </button>
+                    </div>
                     <div class="content"><h1>Política de Cookies</h1>
 <p><strong>Última actualización:</strong> Enero 2026</p>
 <h2>1. ¿Qué son las cookies?</h2>
@@ -1897,7 +2092,17 @@
 <p><em>Esta política cumple con el artículo 22.2 de la Ley 34/2002 (LSSI), el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).</em></p></div>
                 </div>
                 <div class="panel" id="es-subprocessors">
-                    <h1 class="doc-title">Subencargados</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Subencargados</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Descargar
+                        </button>
+                    </div>
                     <div class="content"><h1>Subencargados de Tratamiento</h1>
 <p><strong>Última actualización:</strong> Enero 2026</p>
 <p>Los siguientes subencargados de tratamiento están autorizados para tratar datos personales por cuenta de Socialo, S.L.:</p>
@@ -1932,7 +2137,17 @@
 <p>Para más información sobre los subencargados de tratamiento: <strong>dpo@socialo.live</strong></p></div>
                 </div>
                 <div class="panel" id="es-standard_contract">
-                    <h1 class="doc-title">Contrato de Suscripción<span class="signed-badge">Requires client signature</span></h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Contrato de Suscripción<span class="signed-badge">Requires client signature</span></h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Descargar
+                        </button>
+                    </div>
                     <div class="content"><h1>Formulario de Pedido - Contrato de Suscripción</h1>
 <p><strong>Preparado por:</strong> <code>[<strong><em></strong><strong></em></strong><strong><em></strong></em>]</code></p>
 <p><strong>N.º Pedido:</strong> <code>[<strong><em></strong><strong></em></strong><strong><em></strong></em>]</code></p>
@@ -2136,7 +2351,17 @@
 <p>NIF: B26602979 | info@socialo.live | www.socialo.live</p></div>
                 </div>
                 <div class="panel" id="es-data_processing_agreement">
-                    <h1 class="doc-title">Contrato de Tratamiento de Datos<span class="signed-badge">Requires client signature</span></h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">Contrato de Tratamiento de Datos<span class="signed-badge">Requires client signature</span></h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            Descargar
+                        </button>
+                    </div>
                     <div class="content"><h1>Contrato de Encargado de Tratamiento</h1>
 <h2>Conforme al artículo 28.3 del Reglamento (UE) 2016/679 General de Protección de Datos</h2>
 <hr>
@@ -2638,6 +2863,10 @@
         function closeSidebar() {
             sidebar.classList.remove('open');
             overlay.classList.remove('active');
+        }
+
+        function downloadDoc() {
+            window.print();
         }
     </script>
 </body>

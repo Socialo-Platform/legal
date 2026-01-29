@@ -311,13 +311,118 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             display: block;
         }}
 
+        .doc-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }}
+
         .doc-title {{
             font-size: 1.75rem;
             font-weight: 600;
             letter-spacing: -0.02em;
-            margin-bottom: 2rem;
-            padding-bottom: 1rem;
-            border-bottom: 1px solid var(--border);
+            margin: 0;
+        }}
+
+        .download-btn {{
+            flex-shrink: 0;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.5rem 0.75rem;
+            font-size: 0.8rem;
+            font-family: inherit;
+            color: var(--text-light);
+            background: var(--bg-alt);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.15s;
+        }}
+
+        .download-btn:hover {{
+            color: var(--text);
+            border-color: var(--text-light);
+        }}
+
+        .download-btn svg {{
+            width: 14px;
+            height: 14px;
+        }}
+
+        @media print {{
+            @page {{
+                margin: 2cm;
+            }}
+            * {{
+                color: #000 !important;
+                background: #fff !important;
+            }}
+            .sidebar, .mobile-header, .overlay, .download-btn, footer, .signed-badge {{
+                display: none !important;
+            }}
+            .layout {{
+                display: block !important;
+            }}
+            .main {{
+                margin-left: 0 !important;
+            }}
+            .content-area {{
+                padding: 0 !important;
+                max-width: 100% !important;
+            }}
+            .panel {{
+                display: none !important;
+            }}
+            .panel.active {{
+                display: block !important;
+            }}
+            .doc-header {{
+                border-bottom: 1px solid #000 !important;
+            }}
+            .doc-title {{
+                font-size: 1.5rem !important;
+            }}
+            .content h2 {{
+                font-size: 1.1rem !important;
+                margin-top: 1.5rem !important;
+                page-break-after: avoid;
+            }}
+            .content h3, .content h4 {{
+                page-break-after: avoid;
+            }}
+            .content p, .content li, .content td {{
+                color: #000 !important;
+                font-size: 11pt !important;
+                line-height: 1.5 !important;
+                text-align: justify !important;
+            }}
+            .content table {{
+                font-size: 10pt !important;
+                border-collapse: collapse !important;
+            }}
+            .content th, .content td {{
+                border: 1px solid #000 !important;
+                padding: 0.5rem !important;
+            }}
+            .content th {{
+                background: #f0f0f0 !important;
+            }}
+            .content a {{
+                text-decoration: none !important;
+            }}
+            .content hr {{
+                border-top: 1px solid #000 !important;
+                margin: 1.5rem 0 !important;
+            }}
+            .content code {{
+                background: #f0f0f0 !important;
+                border: 1px solid #ccc !important;
+            }}
         }}
 
         .content h1 {{ display: none; }}
@@ -692,6 +797,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             sidebar.classList.remove('open');
             overlay.classList.remove('active');
         }}
+
+        function downloadDoc() {{
+            window.print();
+        }}
     </script>
 </body>
 </html>
@@ -845,8 +954,19 @@ def main():
     # Generate panels
     def make_panel(d):
         signed_badge = '<span class="signed-badge">Requires client signature</span>' if d['signed'] else ''
+        download_label = 'Download' if d['lang'] == 'en' else 'Descargar'
         return f'''<div class="panel" id="{d['id']}">
-                    <h1 class="doc-title">{d['title']}{signed_badge}</h1>
+                    <div class="doc-header">
+                        <h1 class="doc-title">{d['title']}{signed_badge}</h1>
+                        <button class="download-btn" onclick="downloadDoc()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="7 10 12 15 17 10"/>
+                                <line x1="12" y1="15" x2="12" y2="3"/>
+                            </svg>
+                            {download_label}
+                        </button>
+                    </div>
                     <div class="content">{markdown_to_html(d['content'])}</div>
                 </div>'''
 
