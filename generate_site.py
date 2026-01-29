@@ -2,7 +2,7 @@
 """
 Generate a multi-language static website with vertical tabs from markdown documentation.
 Usage: python generate_site.py
-Output: Creates 'site/index.html'
+Output: Creates 'index.html' in root directory
 
 Structure:
   en/*.md  - English documents
@@ -43,7 +43,7 @@ def parse_frontmatter(content):
     return frontmatter, content
 
 DOCS_DIR = Path(__file__).parent
-OUTPUT_DIR = DOCS_DIR / "site"
+OUTPUT_DIR = DOCS_DIR  # Output to root directory
 SITE_TITLE = "Socialo Legal"
 
 # Language configuration
@@ -771,7 +771,6 @@ def inline(text):
 
 
 def main():
-    OUTPUT_DIR.mkdir(exist_ok=True)
 
     all_docs = []
     available_langs = []

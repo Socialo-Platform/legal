@@ -6,27 +6,28 @@ signed_by_client: true
 
 # Formulario de Pedido - Contrato de Suscripción
 
-**Preparado por:** [Nombre Comercial]
-**N.º Pedido:**
+**Preparado por:** `[________________]`
+**N.º Pedido:** `[________________]`
+**Fecha:** `[________________]`
 
 ---
 
-## DATOS DEL CLIENTE
+## 1. DATOS DEL CLIENTE
 
 | Campo | Datos |
 |-------|-------|
-| **Nombre de la Entidad** ("Cliente") | |
-| **NIF/CIF** | |
-| **Domicilio** | |
-| **Representante Legal** | |
-| **Cargo** | |
-| **Email de contacto** | |
-| **Email de facturación** | |
-| **Teléfono** | |
+| **Nombre de la Entidad** ("Cliente") | `[________________]` |
+| **NIF/CIF** | `[________________]` |
+| **Domicilio** | `[________________]` |
+| **Representante Legal** | `[________________]` |
+| **Cargo** | `[________________]` |
+| **Email de contacto** | `[________________]` |
+| **Email de facturación** | `[________________]` |
+| **Teléfono** | `[________________]` |
 
 ---
 
-## DATOS DEL PROVEEDOR
+## 2. DATOS DEL PROVEEDOR
 
 **Socialo, S.L.**
 Paseo de la Castellana, 194, Bajo B
@@ -42,150 +43,109 @@ Web: www.socialo.live
 
 ---
 
-## CONDICIONES DEL CONTRATO
+## 3. CONDICIONES GENERALES DEL CONTRATO
 
 | Concepto | Detalle |
 |----------|---------|
-| **Fecha efectiva** | |
-| **Duración del contrato** | Vinculada a los periodos académicos |
-| **Periodos de facturación** | Trimestral por adelantado |
-| **Propuesta válida hasta** | |
-| **Condiciones de pago** | Ver Sección 3 |
+| **Fecha efectiva** | `[________________]` |
+| **Duración inicial del contrato** | `[________________]` |
+| **Periodos de facturación** | `[________________]` |
+| **Forma de pago** | `[________________]` |
+| **Propuesta válida hasta** | `[________________]` |
 
 ---
 
-## Sección 1: Productos y Servicios
+## 4. PRODUCTOS Y SERVICIOS CONTRATADOS
 
-### PLATAFORMA SOCIALO
+### 4.1. Plataforma Socialo
 
-| Producto | Descripción | Capacidad | Cuota |
-|----------|-------------|-----------|-------|
-| **Módulo Base** | Acceso completo a la plataforma Socialo: gestión de contenidos, eventos, perfiles, comunicaciones, notificaciones push, aplicaciones iOS y Android. | Según usuarios contratados | Ver tabla de precios |
-| **Usuarios incluidos** | Número de estudiantes/residentes del centro. Se aplica el número total de alumnos matriculados o residentes, con independencia de si cada uno accede o hace uso activo del servicio. | | |
+Acceso completo a la plataforma Socialo incluyendo:
+- Gestión de contenidos, eventos, perfiles y comunicaciones
+- Notificaciones push
+- Aplicaciones iOS y Android
+- Panel de administración web
 
-### TARIFAS MÓDULO BASE
+### 4.2. Módulos Contratados
 
-| Concepto | Precio |
-|----------|--------|
-| Precio por usuario/mes | 1,25 € + IVA |
-| Mínimo de usuarios | 92 usuarios |
-| Meses de julio y agosto | Gratuitos (no facturables) |
+*Marcar los módulos incluidos en este contrato:*
 
-### MÓDULOS OPCIONALES
-
-| Módulo | Descripción | Cuota mensual |
-|--------|-------------|---------------|
-| **Módulo Comedor** | Gestión de menús, reservas, control de asistencia al comedor y comunicación de incidencias alimentarias. | 54 € + IVA |
-
-*Los meses de julio y agosto son gratuitos en todos los módulos.*
-
-### COSTE DE IMPLANTACIÓN
-
-| Condición | Coste |
-|-----------|-------|
-| Contratos formalizados hasta el 22/11/2025 | 0 € (gratuito) |
-| Contratos posteriores | 350 € + IVA |
+| Módulo | Incluido | Descripción |
+|--------|----------|-------------|
+| **Módulo Base** | ☐ Sí / ☐ No | Funcionalidades principales de la plataforma |
+| **Módulo Comedor** | ☐ Sí / ☐ No | Gestión de menús, reservas y control de asistencia |
+| **Otro:** `[________]` | ☐ Sí / ☐ No | `[________________]` |
+| **Otro:** `[________]` | ☐ Sí / ☐ No | `[________________]` |
 
 ---
 
-## Sección 2: Periodos de Contratación
+## 5. CONDICIONES ECONÓMICAS
 
-El contrato tiene una duración vinculada a los siguientes periodos del curso académico:
+Las condiciones económicas aplicables a este contrato se detallan en la **Propuesta Comercial** adjunta, que forma parte integral de este documento.
 
-| Periodo | Meses incluidos |
-|---------|-----------------|
-| **Primer periodo** | Septiembre, octubre, noviembre, diciembre |
-| **Segundo periodo** | Enero, febrero, marzo |
-| **Tercer periodo** | Abril, mayo, junio |
+---
 
-**Meses no incluidos:** Julio y agosto (sin facturación)
+## 6. PERIODO DE PRUEBA (si aplica)
 
-### Renovación automática
+☐ **El Cliente solicita acogerse a un periodo de prueba**
 
-La suscripción se renovará automáticamente al inicio de cada periodo, salvo que el Cliente comunique su decisión de no renovar al menos **treinta (30) días naturales** antes del inicio del siguiente periodo.
+| Condición | Detalle |
+|-----------|---------|
+| Duración | `[________________]` |
+| Usuarios máximos | `[____]` usuarios |
+| Coste | `[________________]` |
+| Condiciones especiales | `[________________]` |
+
+---
+
+## 7. RENOVACIÓN
+
+☐ **Renovación automática:** La suscripción se renovará automáticamente al final de cada periodo, salvo que el Cliente comunique su decisión de no renovar con al menos `[____]` días de antelación.
+
+☐ **Sin renovación automática:** El contrato finalizará en la fecha indicada sin renovación automática.
+
+☐ **Otro modelo:** `[________________]`
 
 **Email para cancelaciones:** cancelaciones@socialo.live
 
 ---
 
-## Sección 3: Resumen de Facturación
+## 8. CONDICIONES ESPECIALES
 
-### CONFIGURACIÓN SELECCIONADA
+*Espacio para condiciones particulares acordadas entre las partes:*
 
-| Concepto | Cantidad | Precio unitario | Total periodo |
-|----------|----------|-----------------|---------------|
-| Módulo Base - Usuarios | ___ usuarios | 1,25 €/usuario/mes | € |
-| Módulo Comedor (opcional) | ☐ Sí / ☐ No | 54 €/mes | € |
-| Coste de implantación | | | € |
-| **Subtotal** | | | € |
-| **IVA (21%)** | | | € |
-| **Total** | | | **€** |
-
-### CALENDARIO DE PAGOS
-
-| Fecha de pago | Periodo | Vencimiento | Importe |
-|---------------|---------|-------------|---------|
-| Septiembre 2025 | 1º periodo (Sep-Dic) | 30 días | € |
-| Enero 2026 | 2º periodo (Ene-Mar) | 30 días | € |
-| Abril 2026 | 3º periodo (Abr-Jun) | 30 días | € |
-
-**Método de pago:** Transferencia bancaria a la cuenta indicada en factura.
+```
+[________________________________________________________________]
+[________________________________________________________________]
+[________________________________________________________________]
+[________________________________________________________________]
+```
 
 ---
 
-## Sección 4: Periodo Piloto (si aplica)
+## 9. FIRMAS
 
-☐ **El Cliente solicita acogerse al periodo piloto gratuito**
+Al firmar a continuación, cada parte acepta cumplir con los términos y condiciones establecidos en este Formulario de Pedido y en los documentos incorporados por referencia.
 
-| Condición | Detalle |
-|-----------|---------|
-| Duración máxima | 3 meses desde la fecha de alta |
-| Usuarios máximos | 8 usuarios |
-| Coste | 0 € (gratuito) |
+**Validez de la firma electrónica:** Las partes reconocen y aceptan expresamente la plena validez y eficacia jurídica de la firma electrónica para la formalización del presente contrato, de conformidad con el Reglamento (UE) 910/2014 (eIDAS) y la Ley 6/2020.
 
-Finalizado el periodo piloto o superado el límite de 8 usuarios, el Cliente podrá optar por contratar una suscripción conforme a las tarifas indicadas. En caso de no continuar, los datos serán eliminados en un plazo de 30 días naturales.
-
----
-
-## Sección 5: Condiciones Especiales
-
-*(Espacio para condiciones particulares acordadas entre las partes)*
-
-| Condición especial | Detalle |
-|--------------------|---------|
-| | |
-| | |
-
----
-
-## Sección 6: Firmas
-
-Al firmar a continuación, cada parte acepta cumplir con los términos y condiciones establecidos en este Formulario de Pedido y en el Acuerdo (definido más abajo). Este compromiso no está sujeto a la emisión de órdenes de compra adicionales, confirmaciones u otros eventos.
-
-**Validez de la firma electrónica:** Las partes reconocen y aceptan expresamente la plena validez y eficacia jurídica de la firma electrónica para la formalización del presente contrato, de conformidad con el Reglamento (UE) 910/2014 (eIDAS) y la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza. La firma electrónica tendrá los mismos efectos que la firma manuscrita.
-
-| **Socialo, S.L.** | **Cliente** |
+| **SOCIALO, S.L.** | **CLIENTE** |
 |-------------------|-------------|
-| Fecha: | Fecha: |
-| Cargo: | Cargo: |
-| Nombre: José Javier Román Camacho | Nombre: |
+| Fecha: `[________]` | Fecha: `[________]` |
+| Nombre: `[________________]` | Nombre: `[________________]` |
+| Cargo: `[________________]` | Cargo: `[________________]` |
 | Firma: | Firma: |
 
 ---
 
-## Términos y Condiciones
+## Documentos Incorporados por Referencia
 
-Los términos y condiciones disponibles en **https://www.socialo.live/legal/terminos-y-condiciones** (los "T&C") se incorporan por referencia al presente documento.
+Los siguientes documentos forman parte integral de este contrato:
 
-## Contrato de Encargo de Tratamiento
+1. **Propuesta Comercial:** Adjunta a este contrato
+2. **Términos y Condiciones:** https://www.socialo.live/legal/
+3. **Contrato de Encargo de Tratamiento:** https://www.socialo.live/legal/
 
-El Contrato de Encargo de Tratamiento de datos personales disponible en **https://www.socialo.live/legal/** se incorpora por referencia al presente documento, regulando las obligaciones de las partes en materia de protección de datos conforme al RGPD. Al firmar este Formulario de Pedido, el Cliente acepta los términos del Contrato de Encargo.
-
-Este formulario de pedido ("Formulario de Pedido") servirá para confirmar el pedido de los Servicios a los precios establecidos anteriormente, de conformidad con los T&C entre las partes (el "Acuerdo").
-
-En caso de conflicto entre los términos del Acuerdo y este Formulario de Pedido, este Formulario de Pedido prevalecerá únicamente con respecto a este pedido específico.
-
-Salvo que se establezca lo contrario en el Acuerdo, todas las compras realizadas en virtud del presente son irrevocables y todas las tarifas no son reembolsables. Los términos en mayúsculas no definidos en este Formulario de Pedido tendrán el significado que se les atribuye en el Acuerdo.
+Al firmar este Formulario de Pedido, el Cliente acepta los términos de todos los documentos incorporados.
 
 ---
 
