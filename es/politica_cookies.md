@@ -1,3 +1,8 @@
+---
+title: Política de Cookies
+order: 3
+---
+
 # Política de Cookies
 
 **Última actualización:** Enero 2026

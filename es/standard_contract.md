@@ -1,3 +1,9 @@
+---
+title: Contrato de Suscripción
+order: 5
+signed_by_client: true
+---
+
 # Formulario de Pedido - Contrato de Suscripción
 
 **Preparado por:** [Nombre Comercial]

@@ -1,3 +1,8 @@
+---
+title: Política de Privacidad
+order: 2
+---
+
 # Política de Privacidad de SOCIALO
 
 ## 1. INTRODUCCIÓN

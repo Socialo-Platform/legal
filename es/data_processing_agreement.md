@@ -1,3 +1,9 @@
+---
+title: Contrato de Tratamiento de Datos
+order: 6
+signed_by_client: true
+---
+
 # Contrato de Encargado de Tratamiento
 ## Conforme al artículo 28.3 del Reglamento (UE) 2016/679 General de Protección de Datos
 

@@ -1,3 +1,8 @@
+---
+title: Términos y Condiciones
+order: 1
+---
+
 # Términos y condiciones
 
 **Última actualización:** Enero 2026
