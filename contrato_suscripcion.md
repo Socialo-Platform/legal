@@ -91,7 +91,7 @@ El contrato tiene una duración vinculada a los siguientes periodos del curso ac
 
 ### Renovación automática
 
-La suscripción se renovará automáticamente al inicio de cada periodo, salvo que el Cliente comunique su decisión de no renovar al menos **quince (15) días naturales** antes del inicio del siguiente periodo.
+La suscripción se renovará automáticamente al inicio de cada periodo, salvo que el Cliente comunique su decisión de no renovar al menos **treinta (30) días naturales** antes del inicio del siguiente periodo.
 
 **Email para cancelaciones:** cancelaciones@socialo.live
 

@@ -97,7 +97,7 @@ La cancelación surtirá efecto al finalizar el periodo de facturación en curso
 
 Cualquiera de las partes podrá resolver este Acuerdo mediante notificación escrita a la otra parte si la otra parte incumple materialmente este Acuerdo y no ha subsanado dicho incumplimiento dentro de los treinta (30) días siguientes a la recepción de la notificación escrita.
 
-En un plazo máximo de quince (15) días naturales desde la fecha efectiva de cancelación, Socialo procederá al borrado seguro de todos los datos alojados en sus sistemas relativos al Cliente, salvo aquellos que deban conservarse por imperativo legal, requerimiento judicial o durante los plazos de prescripción aplicables conforme a la normativa vigente.
+En un plazo máximo de treinta (30) días naturales desde la fecha efectiva de cancelación, Socialo procederá al borrado seguro de todos los datos alojados en sus sistemas relativos al Cliente, salvo aquellos que deban conservarse por imperativo legal, requerimiento judicial o durante los plazos de prescripción aplicables conforme a la normativa vigente.
 
 Las cuentas de usuario son gestionadas por el Cliente, quien autoriza el acceso mediante códigos o validación manual. En caso de baja de usuario o eliminación de datos personales, los eventos y contenidos generados podrán mantenerse en la plataforma, desvinculados de datos identificativos.
 
@@ -188,7 +188,7 @@ Las comunicaciones electrónicas se considerarán válidas y plenamente eficaces
 
 **Nuevos clientes:** Si durante los primeros treinta (30) días utilizando Socialo el Cliente no está satisfecho con el servicio, debe contactar a través de info@socialo.live. Socialo se compromete a encontrar una solución a sus necesidades, y si no fuera posible, se procederá a la devolución del dinero.
 
-**Renovación de las suscripciones:** Las suscripciones se renuevan automáticamente según el período contratado, salvo que el Cliente notifique su voluntad de no renovar con al menos quince (15) días de antelación al inicio del siguiente periodo. Se realizará un reembolso completo por causa de cancelación hasta siete (7) días hábiles después de la fecha de renovación automática.
+**Renovación de las suscripciones:** Las suscripciones se renuevan automáticamente según el período contratado, salvo que el Cliente notifique su voluntad de no renovar con al menos treinta (30) días naturales de antelación al inicio del siguiente periodo. Se realizará un reembolso completo por causa de cancelación hasta siete (7) días hábiles después de la fecha de renovación automática.
 
 **Excepción de la política de devoluciones:** No se aceptarán solicitudes de devolución de Clientes a los que se les haya suspendido o resuelto el servicio por el incumplimiento de los términos y condiciones.
 

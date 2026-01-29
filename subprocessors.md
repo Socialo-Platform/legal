@@ -1,11 +1,15 @@
-# Subprocessors
+# Subencargados de Tratamiento
 
-**Last update:** January 2025
+**Última actualización:** Enero 2026
 
-The following third-party subprocessors are authorized to process personal data on behalf of Socialo, S.L.:
+Los siguientes subencargados de tratamiento están autorizados para tratar datos personales por cuenta de Socialo, S.L.:
 
-| Entity Name | Sub-processor Activity | Entity Location | Product Use |
-|-------------|------------------------|-----------------|-------------|
-| Google Cloud Platform | Cloud infrastructure and hosting services | United States / European Union | Core platform infrastructure |
-| GetStream | Real-time messaging and activity feeds | European Union | Chat and notifications |
-| Twilio SendGrid | Email delivery services | United States | Transactional emails |
+| Nombre de la Entidad | Actividad del Subencargado | Ubicación | Uso del Producto |
+|---------------------|---------------------------|-----------|------------------|
+| Google Cloud Platform | Servicios de infraestructura cloud y alojamiento | Estados Unidos / Unión Europea | Infraestructura principal de la plataforma |
+| GetStream | Mensajería en tiempo real y feeds de actividad | Unión Europea | Chat y notificaciones |
+| Twilio SendGrid | Servicios de envío de correo electrónico | Estados Unidos | Correos transaccionales |
+
+## Contacto
+
+Para más información sobre los subencargados de tratamiento: **dpo@socialo.live**

@@ -87,7 +87,7 @@ El **ENCARGADO** se compromete a no tratar ningún dato personal al que tenga ac
 
 ### 3. Duración
 
-El presente acuerdo tiene una duración de un año y se prorrogará tácitamente salvo que alguna de las partes manifieste su negativa con un plazo de antelación mínima de un mes.
+El presente acuerdo entrará en vigor en la fecha de su firma y permanecerá vigente mientras dure la relación contractual entre las partes derivada del contrato de suscripción de servicios de Socialo. La resolución, por cualquier causa, del contrato principal conllevará automáticamente la finalización del presente acuerdo de encargo de tratamiento, sin perjuicio de las obligaciones que deban subsistir conforme a lo establecido en la Sección 4 (Devolución de los Datos).
 
 ### 4. Devolución de los Datos
 
