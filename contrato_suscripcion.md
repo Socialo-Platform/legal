@@ -26,7 +26,12 @@
 Paseo de la Castellana, 194, Bajo B
 28046 Madrid, España
 NIF: B26602979
-Email: info@socialo.live
+
+**Emails de contacto:**
+- Consultas generales: info@socialo.live
+- Cancelaciones: cancelaciones@socialo.live
+- Protección de datos (DPO): dpo@socialo.live
+
 Web: www.socialo.live
 
 ---
