@@ -271,7 +271,7 @@ Cuando la aplicación solicite permisos de acceso a funcionalidades de tu dispos
 
 ### 13.2. Cookies y Tecnologías Similares
 
-La aplicación puede utilizar cookies y tecnologías similares para mejorar la experiencia del usuario. Para más información sobre el uso de cookies, consulta nuestra política de cookies (si aplica).
+La aplicación puede utilizar cookies y tecnologías similares para mejorar la experiencia del usuario. Para más información sobre el uso de cookies, consulta nuestra [Política de Cookies](https://www.socialo.live/legal/).
 
 ### 13.3. Contacto
 
