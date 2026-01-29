@@ -132,7 +132,7 @@ La suscripción se renovará automáticamente al inicio de cada periodo, salvo q
 | Usuarios máximos | 8 usuarios |
 | Coste | 0 € (gratuito) |
 
-Finalizado el periodo piloto o superado el límite de 8 usuarios, el Cliente podrá optar por contratar una suscripción conforme a las tarifas indicadas. En caso de no continuar, los datos serán eliminados en un plazo de 15 días.
+Finalizado el periodo piloto o superado el límite de 8 usuarios, el Cliente podrá optar por contratar una suscripción conforme a las tarifas indicadas. En caso de no continuar, los datos serán eliminados en un plazo de 30 días naturales.
 
 ---
 

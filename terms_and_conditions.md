@@ -153,7 +153,7 @@ Socialo mantendrá indemne al Cliente frente a reclamaciones de terceros basadas
 
 ## 12. Seguridad y privacidad
 
-Al aceptar los presentes términos y condiciones, las Partes también suscriben el Contrato de Encargo de Tratamiento disponible en la plataforma de Socialo, el cual regula las obligaciones en materia de protección de datos personales que tenemos con nuestros clientes y que cumplen con las obligaciones legales en dicha materia, incluyendo el Reglamento (UE) 2016/679 General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD).
+Al aceptar los presentes términos y condiciones, las Partes también suscriben el Contrato de Encargo de Tratamiento disponible en **https://www.socialo.live/legal**, el cual regula las obligaciones en materia de protección de datos personales que tenemos con nuestros clientes y que cumplen con las obligaciones legales en dicha materia, incluyendo el Reglamento (UE) 2016/679 General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD).
 
 El Contrato de Encargo forma parte inseparable de los presentes términos y condiciones y regula el tratamiento de datos personales del Cliente por parte de Socialo, como Encargado de tratamiento, en nombre del Cliente, como Responsable de tratamiento. Socialo se toma en serio la privacidad de sus Clientes, por lo que se compromete a utilizar la información proporcionada por el Cliente de acuerdo con los términos contenidos en dicho Contrato de Encargo (cuando actúa como encargado de tratamiento) y con la Política de Privacidad (cuando actúa como responsable del tratamiento).
 
