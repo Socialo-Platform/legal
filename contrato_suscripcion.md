@@ -171,6 +171,10 @@ Al firmar a continuación, cada parte acepta cumplir con los términos y condici
 
 Los términos y condiciones disponibles en **https://www.socialo.live/legal/terminos-y-condiciones** (los "T&C") se incorporan por referencia al presente documento.
 
+## Contrato de Encargo de Tratamiento
+
+El Contrato de Encargo de Tratamiento de datos personales disponible en **https://www.socialo.live/legal/** se incorpora por referencia al presente documento, regulando las obligaciones de las partes en materia de protección de datos conforme al RGPD. Al firmar este Formulario de Pedido, el Cliente acepta los términos del Contrato de Encargo.
+
 Este formulario de pedido ("Formulario de Pedido") servirá para confirmar el pedido de los Servicios a los precios establecidos anteriormente, de conformidad con los T&C entre las partes (el "Acuerdo").
 
 En caso de conflicto entre los términos del Acuerdo y este Formulario de Pedido, este Formulario de Pedido prevalecerá únicamente con respecto a este pedido específico.

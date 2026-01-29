@@ -141,7 +141,7 @@ que contendrá:
 > 4\. Una descripción general de las medidas técnicas y organizativas de
 > seguridad relativas a:
 >
-> a\) La seudoanimización y el cifrado de datos personales.
+> a\) La seudonimización y el cifrado de datos personales.
 >
 > b\) La capacidad de garantizar la confidencialidad, integridad,
 > disponibilidad y resiliencia permanentes de los sistemas y servicios
@@ -425,8 +425,7 @@ Asimismo, en caso de contradicción entre las condiciones estipuladas en el pres
 El presente acuerdo se regirá e interpretará conforme a la legislación
 española en todo aquello que no esté expresamente regulado, sometiéndose
 las partes, para las controversias que pudieran surgir en relación al
-mismo, a la competencia de los Juzgados y Tribunales de la ciudad
-señalada en el encabezamiento, con renuncia a cualquier otro fuero que
+mismo, a la competencia de los Juzgados y Tribunales de Madrid, con renuncia a cualquier otro fuero que
 les pudiera corresponder.
 
 ---
