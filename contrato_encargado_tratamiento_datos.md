@@ -494,6 +494,8 @@ Recopilación, almacenamiento, recuperación, consulta, utilización, restricci�
 
 ## Firmas
 
+**Validez de la firma electrónica:** Las partes reconocen y aceptan expresamente la plena validez y eficacia jurídica de la firma electrónica para la formalización del presente contrato, de conformidad con el Reglamento (UE) 910/2014 (eIDAS) y la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza.
+
 En _________________, a _____ de _______________ de _____
 
 **Por el RESPONSABLE del Tratamiento:**

@@ -151,6 +151,8 @@ Finalizado el periodo piloto o superado el límite de 8 usuarios, el Cliente pod
 
 Al firmar a continuación, cada parte acepta cumplir con los términos y condiciones establecidos en este Formulario de Pedido y en el Acuerdo (definido más abajo). Este compromiso no está sujeto a la emisión de órdenes de compra adicionales, confirmaciones u otros eventos.
 
+**Validez de la firma electrónica:** Las partes reconocen y aceptan expresamente la plena validez y eficacia jurídica de la firma electrónica para la formalización del presente contrato, de conformidad con el Reglamento (UE) 910/2014 (eIDAS) y la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza. La firma electrónica tendrá los mismos efectos que la firma manuscrita.
+
 | **Socialo, S.L.** | **Cliente** |
 |-------------------|-------------|
 | Fecha: | Fecha: |
